@@ -1,0 +1,1381 @@
+,Especificação,Classe
+auxserv_6_1_21_0,39,"Abastecimento de água, captação e fornecimento de água tratada"
+auxserv_6_1_21_1,37,Abastecimento de veículos
+auxserv_6_1_21_2,41,Academia de dança
+auxserv_6_1_21_3,41,Academia de tênis
+auxserv_6_1_21_4,36,Acompanhamento de conta
+auxserv_6_1_21_5,45,Aconselhamento esotérico
+auxserv_6_1_21_6,43,Aconselhamento relativo a receitas culinárias
+auxserv_6_1_21_7,42,"Adaptação de balão, míssil e aeronave para fim meteorológico, exceto sua manutenção"
+auxserv_6_1_21_8,45,"Adequação de ambiente à norma relacionada à insalubridade [implementação de norma e procedimento relativo à 
+segurança do trabalho]"
+auxserv_6_1_21_9,41,Adestramento de animal
+auxserv_6_1_21_10,35,Administração comercial
+auxserv_6_1_21_11,35,Administração comercial de shopping center
+auxserv_6_1_21_12,35,Administração de arquivo
+auxserv_6_1_21_13,35,Administração de biblioteca
+auxserv_6_1_21_14,36,Administração de cartão de afinidade [serviço de crédito]
+auxserv_6_1_21_15,35,Administração de cartão de benefícios comerciais [promoção de negócios]
+auxserv_6_1_21_16,36,Administração de cartão de crédito
+auxserv_6_1_21_17,36,Administração de cartão de débito
+auxserv_6_1_21_18,35,Administração de cartão de desconto
+auxserv_6_1_21_19,36,Administração de carteira de valor mobiliário
+auxserv_6_1_21_20,36,Administração de carteira locatícia
+auxserv_6_1_21_21,36,Administração de cemitério
+auxserv_6_1_21_22,36,Administração de condomínio
+auxserv_6_1_21_23,36,Administração de consórcio
+auxserv_6_1_21_24,36,Administração de convênio médico-hospitalar
+auxserv_6_1_21_25,35,Administração de empresa
+auxserv_6_1_21_26,36,Administração de fundo de investimento
+auxserv_6_1_21_27,35,Administração de holding [tipo de empresa]
+auxserv_6_1_21_28,36,Administração de pecúlio
+auxserv_6_1_21_29,35,Administração de programa de incentivo
+auxserv_6_1_21_30,39,Administração de rodovia
+auxserv_6_1_21_31,36,Administração de seguro
+auxserv_6_1_21_32,36,Administração de seguro-saúde
+auxserv_6_1_21_33,36,Administração de vale refeição
+auxserv_6_1_21_34,36,Administração de vale transporte
+auxserv_6_1_21_35,42,Aerofotogrametria
+auxserv_6_1_21_36,41,Agência de modelos para artistas [modelos vivos]
+auxserv_6_1_21_37,41,Agência de notícias/jornalismo [elaboração de reportagens fotográficas ou não]
+auxserv_6_1_21_38,38,Agência de notícias/jornalismo [transmissão/difusão de informações]
+auxserv_6_1_21_39,39,"Agência de viagem, exceto reserva de hotel"
+auxserv_6_1_21_40,41,Agência fotográfica
+auxserv_6_1_21_41,42,Agência reguladora
+auxserv_6_1_21_42,35,Agenciamento de mão-de-obra
+auxserv_6_1_21_43,35,Agenciamento de mercadoria [intermediação]
+auxserv_6_1_21_44,35,Agenciamento de modelo para publicidade [administração de carreira]
+auxserv_6_1_21_45,39,Agenciamento de navio
+auxserv_6_1_21_46,35,Agenciamento de profissional para atendimento domiciliar
+auxserv_6_1_21_47,39,Agenciamento de veículo de carga e de reboque
+auxserv_6_1_21_48,35,"Agenciamento, gestão e intermediação de obra artística"
+auxserv_6_1_21_49,41,Agente artístico; literário e cultural [promotor de evento]
+auxserv_6_1_21_50,36,Agente autônomo de investimento
+auxserv_6_1_21_51,45,Agente da propriedade industrial
+auxserv_6_1_21_52,39,Agente de viagem
+auxserv_6_1_21_53,42,Agrimensura [medição de terras agrícolas]
+auxserv_6_1_21_54,43,Albergue
+auxserv_6_1_21_55,43,Alimentação natural e macrobiótica [serviços de fornecimento de comida e bebida]
+auxserv_6_1_21_56,43,Alojamento para animal [acomodações temporárias]
+auxserv_6_1_21_57,44,Aluguel de aparelhos e equipamentos de uso em barbearia e salões de beleza
+auxserv_6_1_21_58,41,Aluguel de armários para vestiários para escolas/academias
+auxserv_6_1_21_59,43,Aluguel de bebedouros
+auxserv_6_1_21_60,38,Aluguel de caixas postais eletrônicas para e-mail
+auxserv_6_1_21_61,37,Aluguel de compressores
+auxserv_6_1_21_62,41,Aluguel de equipamento de lazer
+auxserv_6_1_21_63,35,Aluguel de escritório virtual [aluguel de equipamentos e material de escritório e fornecimento de serviços de escritório]
+auxserv_6_1_21_64,36,Aluguel de escritório virtual [aluguel de imóvel comercial]
+auxserv_6_1_21_65,41,"Aluguel de espaços para exposições, conferências e espetáculos"
+auxserv_6_1_21_66,37,Aluguel de ferramentas pneumáticas
+auxserv_6_1_21_67,36,Aluguel de loja [imóvel]
+auxserv_6_1_21_68,37,Aluguel de máquina para limpeza
+auxserv_6_1_21_69,41,Aluguel de material para trilha e acampamento
+auxserv_6_1_21_70,44,Aluguel de mictório
+auxserv_6_1_21_71,41,Aluguel de prancha de surf
+auxserv_6_1_21_72,41,Aluguel de salão de festas
+auxserv_6_1_21_73,42,Aluguel de tempo de acesso a banco de dados
+auxserv_6_1_21_74,39,Ambulância para animal [transporte]
+auxserv_6_1_21_75,35,"Análise de conteúdo de jornais e revistas e preparo de relatório comparando o conteúdo dos diversos veículos de 
+comunicação"
+auxserv_6_1_21_76,42,Análise de material
+auxserv_6_1_21_77,42,Análise de solo
+auxserv_6_1_21_78,42,Análise de suporte e sistema [serviço de informática]
+auxserv_6_1_21_79,36,Análise e gestão de crédito
+auxserv_6_1_21_80,42,Análise e processamento de dados [serviço de informática]
+auxserv_6_1_21_81,44,Análise e prognóstico nutricional
+auxserv_6_1_21_82,44,Análise farmacêutica
+auxserv_6_1_21_83,42,Análise para exploração de jazida
+auxserv_6_1_21_84,41,Animação de festa
+auxserv_6_1_21_85,42,Antropologia [estudo e pesquisa]
+auxserv_6_1_21_86,35,Anúncio
+auxserv_6_1_21_87,37,"Aperfeiçoamento de equipamento automotivo [instalação, manutenção, reparo][tuning]"
+auxserv_6_1_21_88,37,Aplicação de estaca tipo mega para eliminação de rachadura e trinca em prédio urbano e rural
+auxserv_6_1_21_89,37,Aplicação de tinta e impermeabilizante
+auxserv_6_1_21_90,42,"Apoio à exploração, perfuração, produção de petróleo e gás"
+auxserv_6_1_21_91,35,Apoio administrativo e secretariado
+auxserv_6_1_21_92,41,Apresentação de canto
+auxserv_6_1_21_93,41,Apresentação de capoeira [esporte]
+auxserv_6_1_21_94,41,Apresentação de espetáculos ao vivo de chorinho [música]
+auxserv_6_1_21_95,41,Apresentação de espetáculos ao vivo de grupo carnavalesco
+auxserv_6_1_21_96,41,Apresentação de espetáculos ao vivo de samba [dança]
+auxserv_6_1_21_97,41,Apresentação de espetáculos ao vivo de samba [música]
+auxserv_6_1_21_98,44,Aqüicultura
+auxserv_6_1_21_99,41,Arbitragem esportiva
+auxserv_6_1_21_100,42,Armazenagem de células humanas para fins de estudos científicos
+auxserv_6_1_21_101,44,Armazenagem de células humanas para fins médicos
+auxserv_6_1_21_102,42,Arqueologia [estudo e pesquisa]
+auxserv_6_1_21_103,35,Arquivista
+auxserv_6_1_21_104,39,Arrendamento de contêiner
+auxserv_6_1_21_105,36,"Assessoria, consultoria e informação em cobrança e cadastro"
+auxserv_6_1_21_106,37,"Assessoria, consultoria e informação em construções"
+auxserv_6_1_21_107,43,"Assessoria, consultoria e informação em culinária"
+auxserv_6_1_21_108,39,"Assessoria, consultoria e informação em empreendimento turístico"
+auxserv_6_1_21_109,45,"Assessoria, consultoria e informação em equilíbrio ambiental [FENG SHUI]"
+auxserv_6_1_21_110,44,"Assessoria, consultoria e informação na área agrícola"
+auxserv_6_1_21_111,42,"Assessoria, consultoria e informação no campo da segurança da informática [programação]"
+auxserv_6_1_21_112,42,"Assessoria, consultoria, informação e assistência em pesagem e em metrologia"
+auxserv_6_1_21_113,42,Assessoria e consultoria em avaliação da conformidade
+auxserv_6_1_21_114,42,Assessoria e consultoria em controle de qualidade
+auxserv_6_1_21_115,42,Assessoria e consultoria em ensaios técnicos para controle de qualidade
+auxserv_6_1_21_116,35,Assessoria e consultoria em governança corporativa para terceiros [gestão organizacional]
+auxserv_6_1_21_117,42,Assessoria e consultoria em inspeção para controle de qualidade
+auxserv_6_1_21_118,45,"Assessoria e consultoria jurídicas em programas de ""compliance"" de organizações"
+auxserv_6_1_21_119,42,Assessoria e consultoria em rastreabilidade [controle de qualidade]
+auxserv_6_1_21_120,42,Assessoria e consultoria em realização de testes e medições para controle de qualidade
+auxserv_6_1_21_121,35,"Assessoria promocional, consultoria e informação sobre propaganda"
+auxserv_6_1_21_122,36,Assessoria técnica em linhas de crédito
+auxserv_6_1_21_123,36,"Assessoria técnica, consultoria e informação na avaliação de dano em veículo e outros bens móveis"
+auxserv_6_1_21_124,36,"Assessoria, consultoria e administração de investimentos de terceiros"
+auxserv_6_1_21_125,35,"Assessoria, consultoria e informação ao consumidor sobre produtos e respectivos preços, através de websites, em 
+conexão com comércio realizado pela internet"
+auxserv_6_1_21_126,36,"Assessoria, consultoria e informação bancária"
+auxserv_6_1_21_127,45,"Assessoria, consultoria e informação concernentes ao conhecimento e prevenção de atos terroristas"
+auxserv_6_1_21_128,35,"Assessoria, consultoria e informação demográfica [serviços de marketing]"
+auxserv_6_1_21_129,35,"Assessoria, consultoria e informação econômica, para os setores industrial e comercial das empresas, visando o planejamento, 
+organização, monitoramento e desenvolvimento de projetos [também provido on-line] [assessoria em gestão comercial]"
+auxserv_6_1_21_130,36,"Assessoria, consultoria e informação em administração de dívidas"
+auxserv_6_1_21_131,36,"Assessoria, consultoria e informação em administração de patrimônio"
+auxserv_6_1_21_132,36,"Assessoria, consultoria e informação em administração de riscos financeiros"
+auxserv_6_1_21_133,35,"Assessoria, consultoria e informação em agências de modelos para publicidade ou promoção de vendas"
+auxserv_6_1_21_134,42,"Assessoria, consultoria e informação em agrimensura de fazendas"
+auxserv_6_1_21_135,37,"Assessoria, consultoria e informação em aluguel de equipamentos para construção"
+auxserv_6_1_21_136,39,"Assessoria, consultoria e informação em armazenagem"
+auxserv_6_1_21_137,44,"Assessoria, consultoria e informação em assistência médica, prestada por médicos e outros especialistas da área 
+médica"
+auxserv_6_1_21_138,42,"Assessoria, consultoria e informação em astronomia"
+auxserv_6_1_21_139,41,"Assessoria, consultoria e informação em atividades desportivas e culturais"
+auxserv_6_1_21_140,35,"Assessoria, consultoria e informação em auditoria [gestão organizacional]"
+auxserv_6_1_21_141,36,"Assessoria, consultoria e informação em avaliação de antigüidades"
+auxserv_6_1_21_142,36,"Assessoria, consultoria e informação em avaliação de jóias"
+auxserv_6_1_21_143,36,"Assessoria, consultoria e informação em avaliação de obras de arte"
+auxserv_6_1_21_144,36,"Assessoria, consultoria e informação em avaliação filatélica"
+auxserv_6_1_21_145,36,"Assessoria, consultoria e informação em avaliação imobiliária"
+auxserv_6_1_21_146,36,"Assessoria, consultoria e informação em avaliação numismática"
+auxserv_6_1_21_147,35,"Assessoria, consultoria e informação em compilação de informações em bancos de dados de computador"
+auxserv_6_1_21_148,38,"Assessoria, consultoria e informação em comunicação no campo áudio visual"
+auxserv_6_1_21_149,35,"Assessoria, consultoria e informação em contabilidade"
+auxserv_6_1_21_150,36,"Assessoria, consultoria e informação em crédito"
+auxserv_6_1_21_151,43,"Assessoria, consultoria e informação em culinária"
+auxserv_6_1_21_152,37,"Assessoria, consultoria e informação em dedetização"
+auxserv_6_1_21_153,39,"Assessoria, consultoria e informação em distribuição de energia"
+auxserv_6_1_21_154,41,"Assessoria, consultoria e informação em edição"
+auxserv_6_1_21_155,41,"Assessoria, consultoria e informação em educação [instrução]"
+auxserv_6_1_21_156,41,"Assessoria, consultoria e informação em educação física"
+auxserv_6_1_21_157,39,"Assessoria, consultoria e informação em embalagem"
+auxserv_6_1_21_158,36,"Assessoria, consultoria e informação em empréstimos"
+auxserv_6_1_21_159,41,"Assessoria, consultoria e informação em entretenimento [lazer]"
+auxserv_6_1_21_160,44,"Assessoria, consultoria e informação em estética capilar"
+auxserv_6_1_21_161,44,"Assessoria, consultoria e informação em estética pessoal [tratamento de pele e cabelo]"
+auxserv_6_1_21_162,35,"Assessoria, consultoria e informação em franquia, exceto licenciamento da propriedade intelectual [gestão comercial]"
+auxserv_6_1_21_163,36,"Assessoria, consultoria e informação em fundo de investimentos"
+auxserv_6_1_21_164,35,"Assessoria, consultoria e informação em gestão de negócios e comercialização de produtos sob contrato de franquia"
+auxserv_6_1_21_165,35,"Assessoria, consultoria e informação em gestão de negócios para companhias industriais ou comerciais"
+auxserv_6_1_21_166,35,"Assessoria, consultoria e informação em investigações, avaliações e pesquisas em negócios"
+auxserv_6_1_21_167,36,"Assessoria, consultoria e informação em investimentos"
+auxserv_6_1_21_168,37,"Assessoria, consultoria e informação em manutenção de instalações de esgoto"
+auxserv_6_1_21_169,35,"Assessoria, consultoria e informação em marketing"
+auxserv_6_1_21_170,44,"Assessoria, consultoria e informação em massagem"
+auxserv_6_1_21_171,36,"Assessoria, consultoria e informação em mercado de ações"
+auxserv_6_1_21_172,35,"Assessoria, consultoria e informação em negócios relacionados à estratégia, marketing, produção, pessoal e assuntos 
+relativos ao comércio varejista"
+auxserv_6_1_21_173,35,"Assessoria, consultoria e informação em negócios relativos à relocalização para empresas"
+auxserv_6_1_21_174,44,"Assessoria, consultoria e informação em nutrição"
+auxserv_6_1_21_175,45,"Assessoria, consultoria e informação em patentes e em propriedade industrial"
+auxserv_6_1_21_176,37,"Assessoria, consultoria e informação em pintura de prédios"
+auxserv_6_1_21_177,36,"Assessoria, consultoria e informação em planejamento financeiro"
+auxserv_6_1_21_178,40,"Assessoria, consultoria e informação em produção de energia"
+auxserv_6_1_21_179,35,"Assessoria, consultoria e informação em promoção de vendas"
+auxserv_6_1_21_180,45,"Assessoria, consultoria e informação em propriedade intelectual [serviços jurídicos]"
+auxserv_6_1_21_181,35,"Assessoria, consultoria e informação em publicidade e propaganda através de qualquer meio"
+auxserv_6_1_21_182,37,"Assessoria, consultoria e informação em reparo e manutenção de utensílios domésticos"
+auxserv_6_1_21_183,37,"Assessoria, consultoria e informação em reparo e manutenção de veículos"
+auxserv_6_1_21_184,37,"Assessoria, consultoria e informação em reparos no setor de aviação"
+auxserv_6_1_21_185,37,"Assessoria, consultoria e informação em restauração de móveis"
+auxserv_6_1_21_186,36,"Assessoria, consultoria e informação em seguros"
+auxserv_6_1_21_187,39,"Assessoria, consultoria e informação em serviços de entrega"
+auxserv_6_1_21_188,35,"Assessoria, consultoria e informação em serviços de recursos humanos para empresas"
+auxserv_6_1_21_189,37,"Assessoria, consultoria e informação em serviços de revestimentos"
+auxserv_6_1_21_190,39,"Assessoria, consultoria e informação em serviços de tráfego"
+auxserv_6_1_21_191,37,"Assessoria, consultoria e informação em supervisão de construção"
+auxserv_6_1_21_192,38,"Assessoria, consultoria e informação em telecomunicações"
+auxserv_6_1_21_193,39,"Assessoria, consultoria e informação em transportes"
+auxserv_6_1_21_194,40,"Assessoria, consultoria e informação em tratamento de materiais"
+auxserv_6_1_21_195,41,"Assessoria, consultoria e informação em treinamento [demonstração][ensino]"
+auxserv_6_1_21_196,39,"Assessoria, consultoria e informação em viagem e turismo"
+auxserv_6_1_21_197,43,"Assessoria, consultoria e informação em viagens [alojamento e reservas]"
+auxserv_6_1_21_198,35,"Assessoria, consultoria e informação empresarial"
+auxserv_6_1_21_199,41,"Assessoria, consultoria e informação ensino"
+auxserv_6_1_21_200,36,"Assessoria, consultoria e informação especializada em matéria de previdência privada"
+auxserv_6_1_21_201,44,"Assessoria, consultoria e informação médica"
+auxserv_6_1_21_202,45,"Assessoria, consultoria e informação na área de espiritualidade, autoajuda e fortalecimento pessoal em assuntos de 
+caráter subjetivo"
+auxserv_6_1_21_203,45,"Assessoria, consultoria e informação na área de gerenciamento de tempo voltado para propósitos pessoais"
+auxserv_6_1_21_204,44,"Assessoria, consultoria e informação na área de horticultura de parreirais"
+auxserv_6_1_21_205,45,"Assessoria, consultoria e informação na área de inteligência em segurança pública"
+auxserv_6_1_21_206,45,"Assessoria, consultoria e informação na área de proteção contra incêndio"
+auxserv_6_1_21_207,45,"Assessoria, consultoria e informação na área de segurança e proteção à criança"
+auxserv_6_1_21_208,45,"Assessoria, consultoria e informação na área de segurança nacional"
+auxserv_6_1_21_209,36,"Assessoria, consultoria e informação na área econômico-financeira"
+auxserv_6_1_21_210,44,"Assessoria, consultoria e informação na área médica"
+auxserv_6_1_21_211,45,"Assessoria, consultoria e informação na área militar [estratégias e táticas militares]"
+auxserv_6_1_21_212,35,"Assessoria, consultoria e informação na implantação e viabilização de sistema de franquia"
+auxserv_6_1_21_213,42,"Assessoria, consultoria e informação no campo da automação de locais de trabalho"
+auxserv_6_1_21_214,42,"Assessoria, consultoria e informação no campo da física"
+auxserv_6_1_21_215,44,"Assessoria, consultoria e informação no campo da saúde e da medicina"
+auxserv_6_1_21_216,42,"Assessoria, consultoria e informação no campo da segurança da informática"
+auxserv_6_1_21_217,42,"Assessoria, consultoria e informação no campo da seleção, implementação e uso dos sistemas hardware e software para 
+terceiros"
+auxserv_6_1_21_218,44,"Assessoria, consultoria e informação odontológica"
+auxserv_6_1_21_219,35,"Assessoria, consultoria e informação relacionadas ao planejamento, análise, gestão e organização de negócios para empresas"
+auxserv_6_1_21_220,43,"Assessoria, consultoria e informação relativa à produção de alimento"
+auxserv_6_1_21_221,44,"Assessoria, consultoria e informação sobre aplicação de pesticidas e sobre resíduos de pesticidas em alimentos"
+auxserv_6_1_21_222,45,"Assessoria, consultoria e informação sobre as tendências da moda [personal stylist]"
+auxserv_6_1_21_223,45,"Assessoria, consultoria e informação sobre assuntos jurídicos"
+auxserv_6_1_21_224,45,"Assessoria, consultoria e informação sobre astrologia"
+auxserv_6_1_21_225,45,"Assessoria, consultoria e informação sobre autoajuda"
+auxserv_6_1_21_226,44,"Assessoria, consultoria e informação sobre beleza"
+auxserv_6_1_21_227,35,"Assessoria, consultoria e informação sobre busca de dados em arquivos de computador para terceiros"
+auxserv_6_1_21_228,44,"Assessoria, consultoria e informação sobre cuidados médicos"
+auxserv_6_1_21_229,42,"Assessoria, consultoria e informação sobre desenvolvimento de produtos"
+auxserv_6_1_21_230,44,"Assessoria, consultoria e informação sobre doenças mentais"
+auxserv_6_1_21_231,35,"Assessoria, consultoria e informação sobre eleições políticas"
+auxserv_6_1_21_232,45,"Assessoria, consultoria e informação sobre gerenciamento de copyright [direito de autor]"
+auxserv_6_1_21_233,35,"Assessoria, consultoria e informação sobre gestão de negócios no campo da propriedade intelectual"
+auxserv_6_1_21_234,35,"Assessoria, consultoria e informação sobre gestão governamental"
+auxserv_6_1_21_235,35,"Assessoria, consultoria e informação sobre imposto de renda"
+auxserv_6_1_21_236,35,"Assessoria, consultoria e informação sobre leilões"
+auxserv_6_1_21_237,42,"Assessoria, consultoria e informação sobre meteorologia e condições climáticas ligadas ao fechamento de estradas e 
+condições para determinados esportes"
+auxserv_6_1_21_238,45,"Assessoria, consultoria e informação sobre motivação e crescimento pessoal"
+auxserv_6_1_21_239,45,"Assessoria, consultoria e informação sobre negociações trabalhistas [serviços jurídicos]"
+auxserv_6_1_21_240,43,"Assessoria, consultoria e informação sobre o vinho e suas características"
+auxserv_6_1_21_241,35,"Assessoria, consultoria e informação sobre oportunidades de negócio"
+auxserv_6_1_21_242,35,"Assessoria, consultoria e informação sobre organização de feiras para fins comerciais ou publicitários"
+auxserv_6_1_21_243,42,"Assessoria, consultoria e informação sobre pesquisas científicas no campo da bioquímica e biotecnologia"
+auxserv_6_1_21_244,42,"Assessoria, consultoria e informação sobre pesquisas de cosméticos"
+auxserv_6_1_21_245,35,"Assessoria, consultoria e informação sobre pesquisas de opinião"
+auxserv_6_1_21_246,36,"Assessoria, consultoria e informação sobre planos de saúde"
+auxserv_6_1_21_247,35,"Assessoria, consultoria e informação sobre publicidade através de mala direta"
+auxserv_6_1_21_248,35,"Assessoria, consultoria e informação sobre reprodução de documentos"
+auxserv_6_1_21_249,36,"Assessoria, consultoria e informação sobre seguros de saúde"
+auxserv_6_1_21_250,45,"Assessoria, consultoria e informação sobre serviços legais no campo das leis de privacidade e segurança, normas e 
+regulamentos"
+auxserv_6_1_21_251,44,"Assessoria, consultoria e informação sobre suplementos dietéticos e nutrição"
+auxserv_6_1_21_252,45,"Assessoria, consultoria e informação sobre técnicas para desenvolver a criatividade pessoal"
+auxserv_6_1_21_253,42,"Assessoria, consultoria e informação sobre testes de segurança de produtos para consumidores [testes de materiais]"
+auxserv_6_1_21_254,35,"Assessoria, consultoria e informação sobre testes psicológicos para seleção de pessoal"
+auxserv_6_1_21_255,35,"Assessoria, consultoria e informação sobre tributos, impostos e taxas"
+auxserv_6_1_21_256,43,"Assessoria, consultoria e informação técnica em serviço de alimentação"
+auxserv_6_1_21_257,42,"Assessoria, consultoria e informações e pesquisas no campo biológico"
+auxserv_6_1_21_258,35,"Assessoria, consultoria e informações estatísticas [Marketing]"
+auxserv_6_1_21_259,36,"Assessoria, consultoria e informações financeiras prestadas a investidores"
+auxserv_6_1_21_260,42,"Assessoria, consultoria e informações no campo da manutenção da segurança e integridade de banco de dados [serviço de 
+informática]"
+auxserv_6_1_21_261,44,"Assessoria, consultoria e informações no campo de engenharia genética [referentes à medicina]"
+auxserv_6_1_21_262,42,"Assessoria, consultoria e informações no campo de processos tecnológicos"
+auxserv_6_1_21_263,45,"Assessoria, consultoria e informações no campo esotérico"
+auxserv_6_1_21_264,35,"Assessoria, consultoria e informações sobre administração de pessoal"
+auxserv_6_1_21_265,44,"Assessoria, consultoria e informações sobre aquacultura"
+auxserv_6_1_21_266,42,"Assessoria, consultoria e informações sobre arquitetura"
+auxserv_6_1_21_267,42,"Assessoria, consultoria e informações sobre artes gráficas"
+auxserv_6_1_21_268,36,"Assessoria, consultoria e informações sobre atuaria [avaliação e administração de riscos]"
+auxserv_6_1_21_269,42,"Assessoria, consultoria e informações sobre catalisadores [química]"
+auxserv_6_1_21_270,45,"Assessoria, consultoria e informações sobre compilação e interpretação da legislação aplicável [consultoria jurídica]"
+auxserv_6_1_21_271,42,"Assessoria, consultoria e informações sobre construção de estrutura predial [engenharia]"
+auxserv_6_1_21_272,42,"Assessoria, consultoria e informações sobre decoração de interiores"
+auxserv_6_1_21_273,42,"Assessoria, consultoria e informações sobre engenharia"
+auxserv_6_1_21_274,42,"Assessoria, consultoria e informações sobre engenharia industrial"
+auxserv_6_1_21_275,44,"Assessoria, consultoria e informações sobre florestamento e reflorestamento"
+auxserv_6_1_21_276,35,"Assessoria, consultoria e informações sobre franchising [gestão comercial]"
+auxserv_6_1_21_277,42,"Assessoria, consultoria e informações sobre gás [química]"
+auxserv_6_1_21_278,36,"Assessoria, consultoria e informações sobre investimento bancário"
+auxserv_6_1_21_279,42,"Assessoria, consultoria e informações sobre líquidos [química]"
+auxserv_6_1_21_280,35,"Assessoria, consultoria e informações sobre marketing"
+auxserv_6_1_21_281,44,"Assessoria, consultoria e informações sobre medicina, assistência médica e odontológica"
+auxserv_6_1_21_282,42,"Assessoria, consultoria e informações sobre óleo industrial [química]"
+auxserv_6_1_21_283,44,"Assessoria, consultoria e informações sobre paisagismo"
+auxserv_6_1_21_284,42,"Assessoria, consultoria e informações sobre pesquisas e análises bacteriológicas, biológicas, químicas e bioquímicas"
+auxserv_6_1_21_285,42,"Assessoria, consultoria e informações sobre pesquisas no campo biológico"
+auxserv_6_1_21_286,42,"Assessoria, consultoria e informações sobre pesquisas no campo de agricultura"
+auxserv_6_1_21_287,42,"Assessoria, consultoria e informações sobre pesquisas no campo de confinamento de animal"
+auxserv_6_1_21_288,42,"Assessoria, consultoria e informações sobre pesquisas no campo de engenharia genética"
+auxserv_6_1_21_289,42,"Assessoria, consultoria e informações sobre pesquisas no campo de transferência de embrião de animal"
+auxserv_6_1_21_290,42,"Assessoria, consultoria e informações sobre petroquímica"
+auxserv_6_1_21_291,43,"Assessoria, consultoria e informações sobre restaurante"
+auxserv_6_1_21_292,45,"Assessoria, consultoria e informações sobre segurança no trabalho"
+auxserv_6_1_21_293,39,"Assessoria, consultoria e informações sobre transportes"
+auxserv_6_1_21_294,42,"Assessoria, consultoria e pesquisa científicas no campo da saúde e da medicina"
+auxserv_6_1_21_295,35,Assessoria e consultoria em distribuição comercial para terceiros [planejamento de marketing]
+auxserv_6_1_21_296,35,"Assessoria e consultoria em gestão organizacional para terceiros para fins de ""compliance"""
+auxserv_6_1_21_297,35,Assessoria e consultoria em marketing relativas a desenvolvimento de produto ou serviço de terceiros
+auxserv_6_1_21_298,35,Assessoria e consultoria em marketing relativas a logística de distribuição comercial de terceiros
+auxserv_6_1_21_299,35,Assessoria e consultoria em marketing relativas a precificação de produto ou serviço de terceiros
+auxserv_6_1_21_300,35,Assessoria e consultoria em marketing relativas a promoção de produto ou serviço de terceiros
+auxserv_6_1_21_301,37,Assistência técnica de persianas
+auxserv_6_1_21_302,37,Assistência técnica e manutenção de computador [hardware]
+auxserv_6_1_21_303,42,Assistência técnica em software
+auxserv_6_1_21_304,37,"Assistência técnica, consultoria e informação sobre filtros para piscina"
+auxserv_6_1_21_305,42,Astrobiologia [estudo e pesquisa]
+auxserv_6_1_21_306,42,Astrobotânica [estudo e pesquisa]
+auxserv_6_1_21_307,42,Astroclima [estudo e pesquisa]
+auxserv_6_1_21_308,42,Astrofísica [estudo e pesquisa]
+auxserv_6_1_21_309,42,Astrogenia [estudo e pesquisa]
+auxserv_6_1_21_310,45,"Astrologia [estudo e conhecimento da influência dos astros, especialmente de signos, no destino e no comportamento do 
+homem; uranoscopia]"
+auxserv_6_1_21_311,42,Astrometria [estudo e pesquisa]
+auxserv_6_1_21_312,42,Astronomia cometária [cometografia]
+auxserv_6_1_21_313,42,Astronomia de campo [estudo e pesquisa]
+auxserv_6_1_21_314,42,Astronomia descritiva [estudo e pesquisa]
+auxserv_6_1_21_315,42,Astronomia estelar [estudo e pesquisa]
+auxserv_6_1_21_316,42,Astronomia instrumental [astronomia prática] [estudo e pesquisa]
+auxserv_6_1_21_317,42,Astronomia meteórica [meteorografia] [estudo e pesquisa]
+auxserv_6_1_21_318,42,Astroscopia [estudo e pesquisa]
+auxserv_6_1_21_319,42,Astrostática [estudo e pesquisa]
+auxserv_6_1_21_320,42,Astrozoologia [estudo e pesquisa]
+auxserv_6_1_21_321,40,Ateliê de costura
+auxserv_6_1_21_322,35,Atendimento ao cliente [S.A.C.; serviço de orientação ao consumidor]
+auxserv_6_1_21_323,45,Atribuição de nomes de domínio [intermediação em propriedade intelectual]
+auxserv_6_1_21_324,36,Atuária
+auxserv_6_1_21_325,41,Aula de samba [dança]
+auxserv_6_1_21_326,42,Autenticação de dados [serviço de informática]
+auxserv_6_1_21_327,42,Autenticação de diamantes
+auxserv_6_1_21_328,41,Autoescola
+auxserv_6_1_21_329,42,"Automação industrial [desenvolvimento, instalação e manutenção de sistemas]"
+auxserv_6_1_21_330,37,Automação industrial [instalação e manutenção de máquinas]
+auxserv_6_1_21_331,44,Avaliação da capacidade auditiva [audiometria]
+auxserv_6_1_21_332,42,Avaliação da conformidade de produtos [ensaios/testes]
+auxserv_6_1_21_333,42,Avaliação da conformidade de serviços [ensaios/testes]
+auxserv_6_1_21_334,36,Avaliação de bens semoventes [valoração]
+auxserv_6_1_21_335,44,Aviamento de receita em farmácia de manipulação
+auxserv_6_1_21_336,36,Banco comercial [serviços financeiros]
+auxserv_6_1_21_337,36,Banco de desenvolvimento [serviços financeiros]
+auxserv_6_1_21_338,36,Banco de investimento [serviços financeiros]
+auxserv_6_1_21_339,44,Banco de leite humano
+auxserv_6_1_21_340,44,Banco de sêmen animal
+auxserv_6_1_21_341,36,Banco múltiplo com ou sem carteira comercial [serviços financeiros]
+auxserv_6_1_21_342,41,Banda de música [serviços de entretenimento]
+auxserv_6_1_21_343,40,Beneficiamento da castanha-de-caju
+auxserv_6_1_21_344,40,Beneficiamento de alimentos
+auxserv_6_1_21_345,40,Beneficiamento de cereal
+auxserv_6_1_21_346,40,Beneficiamento de laticínio
+auxserv_6_1_21_347,41,Bilhar [diversão]
+auxserv_6_1_21_348,40,Blindagem de veículo
+auxserv_6_1_21_349,45,Bloqueio de carro por satélite
+auxserv_6_1_21_350,41,Boliche [diversão]
+auxserv_6_1_21_351,44,Bronzeamento artificial
+auxserv_6_1_21_352,36,Caderneta de poupança [serviços financeiros]
+auxserv_6_1_21_353,36,Caixa de aposentadoria [serviços financeiros]
+auxserv_6_1_21_354,37,Calafetagem
+auxserv_6_1_21_355,37,"Calçado, reparo e manutenção"
+auxserv_6_1_21_356,42,Cálculo e dimensionamento na área de engenharia
+auxserv_6_1_21_357,40,Caldeiraria [oficina de caldeireiro]
+auxserv_6_1_21_358,36,Câmbio monetário
+auxserv_6_1_21_359,43,Camping [provimento de acomodações]
+auxserv_6_1_21_360,41,Cantor(a)
+auxserv_6_1_21_361,36,Capitalização [serviços financeiros]
+auxserv_6_1_21_362,37,Capoteiro [conserto de capota de automóvel]
+auxserv_6_1_21_363,36,Cartão de caixa [serviços financeiros]
+auxserv_6_1_21_364,36,Carteira de investidor estrangeiro [serviços financeiros]
+auxserv_6_1_21_365,40,Chapeamento com prata
+auxserv_6_1_21_366,36,"Cheque-refeição [serviços de pagamento de refeições através de tíquetes, vales ou cupons]"
+auxserv_6_1_21_367,43,Churrascaria [restaurante]
+auxserv_6_1_21_368,44,Cirurgias médicas [serviços médicos]
+auxserv_6_1_21_369,44,Clínica de desintoxicação
+auxserv_6_1_21_370,44,Clínica veterinária
+auxserv_6_1_21_371,36,Clube de investimento [serviços financeiros]
+auxserv_6_1_21_372,41,Clube de livro e disco [lazer ou educação]
+auxserv_6_1_21_373,41,Clube de vídeo game e vídeo cassete [lazer ou educação]
+auxserv_6_1_21_374,36,Cobertura de seguro médico para viajante [seguro-saúde]
+auxserv_6_1_21_375,37,"Coleta de materiais, exceto transporte e armazenamento"
+auxserv_6_1_21_376,44,"Coleta, em domicílio, de material para análise clínica médica/veterinária"
+auxserv_6_1_21_377,44,Colheita [serviços de agricultura]
+auxserv_6_1_21_378,37,Colocação de piso e pedra
+auxserv_6_1_21_379,40,Colocação de sobrecapa [serviços de encadernação]
+auxserv_6_1_21_380,36,Comercialização de seguro saúde
+auxserv_6_1_21_381,35,Comércio [através de qualquer meio] de adesivos para papelaria ou para uso doméstico
+auxserv_6_1_21_382,35,Comércio [através de qualquer meio] de água mineral engarrafada; comercialização de água bruta
+auxserv_6_1_21_383,35,Comércio [através de qualquer meio] de alfinetes e agulhas [artigos de armarinho]
+auxserv_6_1_21_384,35,Comércio [através de qualquer meio] de alimentos para animais
+auxserv_6_1_21_385,35,Comércio [através de qualquer meio] de alimentos para bebês
+auxserv_6_1_21_386,35,Comércio [através de qualquer meio] de amianto
+auxserv_6_1_21_387,35,Comércio [através de qualquer meio] de animais vivos
+auxserv_6_1_21_388,35,Comércio [através de qualquer meio] de aparelhos [lâminas] de barbear
+auxserv_6_1_21_389,35,Comércio [através de qualquer meio] de aparelhos de aquecimento
+auxserv_6_1_21_390,35,Comércio [através de qualquer meio] de aparelhos de cozimento
+auxserv_6_1_21_391,35,Comércio [através de qualquer meio] de aparelhos de distribuição de água
+auxserv_6_1_21_392,35,Comércio [através de qualquer meio] de aparelhos de iluminação
+auxserv_6_1_21_393,35,Comércio [através de qualquer meio] de aparelhos de instalações sanitárias
+auxserv_6_1_21_394,35,"Comércio [através de qualquer meio] de aparelhos de locomoção por terra, por ar ou por água"
+auxserv_6_1_21_395,35,Comércio [através de qualquer meio] de aparelhos de produção de vapor
+auxserv_6_1_21_396,35,Comércio [através de qualquer meio] de aparelhos de refrigeração
+auxserv_6_1_21_397,35,Comércio [através de qualquer meio] de aparelhos de secagem
+auxserv_6_1_21_398,35,Comércio [através de qualquer meio] de aparelhos de ventilação
+auxserv_6_1_21_399,35,Comércio [através de qualquer meio] de aparelhos e instrumentos científicos
+auxserv_6_1_21_400,35,Comércio [através de qualquer meio] de aparelhos e instrumentos cinematográficos
+auxserv_6_1_21_401,35,Comércio [através de qualquer meio] de aparelhos e instrumentos cirúrgicos
+auxserv_6_1_21_402,35,Comércio [através de qualquer meio] de aparelhos e instrumentos cronométricos
+auxserv_6_1_21_403,35,Comércio [através de qualquer meio] de aparelhos e instrumentos de controle [inspeção]
+auxserv_6_1_21_404,35,Comércio [através de qualquer meio] de aparelhos e instrumentos de ensino
+auxserv_6_1_21_405,35,Comércio [através de qualquer meio] de aparelhos e instrumentos de medição
+auxserv_6_1_21_406,35,Comércio [através de qualquer meio] de aparelhos e instrumentos de pesagem
+auxserv_6_1_21_407,35,Comércio [através de qualquer meio] de aparelhos e instrumentos de salvamento
+auxserv_6_1_21_408,35,Comércio [através de qualquer meio] de aparelhos e instrumentos de sinalização
+auxserv_6_1_21_409,35,Comércio [através de qualquer meio] de aparelhos e instrumentos dentários
+auxserv_6_1_21_410,35,Comércio [através de qualquer meio] de aparelhos e instrumentos fotográficos
+auxserv_6_1_21_411,35,Comércio [através de qualquer meio] de aparelhos e instrumentos geodésicos
+auxserv_6_1_21_412,35,Comércio [através de qualquer meio] de aparelhos e instrumentos médicos
+auxserv_6_1_21_413,35,Comércio [através de qualquer meio] de aparelhos e instrumentos náuticos
+auxserv_6_1_21_414,35,Comércio [através de qualquer meio] de aparelhos e instrumentos ópticos
+auxserv_6_1_21_415,35,"Comércio [através de qualquer meio] de aparelhos e instrumentos para conduzir, interromper, transformar, acumular, 
+regular ou controlar eletricidade"
+auxserv_6_1_21_416,35,Comércio [através de qualquer meio] de aparelhos e instrumentos veterinários
+auxserv_6_1_21_417,35,Comércio [através de qualquer meio] de aparelhos extintores de incêndio
+auxserv_6_1_21_418,35,"Comércio [através de qualquer meio] de aparelhos para o registro, a transmissão e a reprodução de som ou imagens"
+auxserv_6_1_21_419,35,Comércio [através de qualquer meio] de aparelhos para suporte de registro magnético
+auxserv_6_1_21_420,35,Comércio [através de qualquer meio] de armas brancas
+auxserv_6_1_21_421,35,Comércio [através de qualquer meio] de armas de fogo
+auxserv_6_1_21_422,35,"Comércio [através de qualquer meio] de artigos de cama, mesa e banho"
+auxserv_6_1_21_423,35,Comércio [através de qualquer meio] de artigos de chapelaria
+auxserv_6_1_21_424,35,Comércio [através de qualquer meio] de artigos de cutelaria
+auxserv_6_1_21_425,35,Comércio [através de qualquer meio] de artigos de ferragem
+auxserv_6_1_21_426,35,Comércio [através de qualquer meio] de artigos de iluminação
+auxserv_6_1_21_427,35,Comércio [através de qualquer meio] de artigos de joalheria
+auxserv_6_1_21_428,35,Comércio [através de qualquer meio] de artigos de louça de faiança
+auxserv_6_1_21_429,35,Comércio [através de qualquer meio] de artigos de papelaria
+auxserv_6_1_21_430,35,Comércio [através de qualquer meio] de artigos de relojoaria
+auxserv_6_1_21_431,35,Comércio [através de qualquer meio] de artigos de vidro
+auxserv_6_1_21_432,35,Comércio [através de qualquer meio] de artigos do vestuário
+auxserv_6_1_21_433,35,Comércio [através de qualquer meio] de artigos ortopédicos
+auxserv_6_1_21_434,35,Comércio [através de qualquer meio] de artigos para animais
+auxserv_6_1_21_435,35,Comércio [através de qualquer meio] de artigos para encadernação
+auxserv_6_1_21_436,35,Comércio [através de qualquer meio] de artigos para fumantes
+auxserv_6_1_21_437,35,Comércio [através de qualquer meio] de artigos para ginástica
+auxserv_6_1_21_438,35,Comércio [através de qualquer meio] de artigos para prática de esportes
+auxserv_6_1_21_439,35,"Comércio [através de qualquer meio] de asfalto, piche e betume"
+auxserv_6_1_21_440,35,Comércio [através de qualquer meio] de baixelas em metal
+auxserv_6_1_21_441,35,Comércio [através de qualquer meio] de baixelas em porcelana
+auxserv_6_1_21_442,35,Comércio [através de qualquer meio] de bebidas alcoólicas
+auxserv_6_1_21_443,35,Comércio [através de qualquer meio] de bebidas não alcoólicas
+auxserv_6_1_21_444,35,Comércio [através de qualquer meio] de bengalas
+auxserv_6_1_21_445,35,Comércio [através de qualquer meio] de bijuteria
+auxserv_6_1_21_446,35,Comércio [através de qualquer meio] de bobinas de papel
+auxserv_6_1_21_447,35,Comércio [através de qualquer meio] de bolsas femininas
+auxserv_6_1_21_448,35,Comércio [através de qualquer meio] de borracha em bruto
+auxserv_6_1_21_449,35,Comércio [através de qualquer meio] de borracha semiprocessada
+auxserv_6_1_21_450,35,Comércio [através de qualquer meio] de botões [artigos de armarinho]
+auxserv_6_1_21_451,35,Comércio [através de qualquer meio] de cabos e fios de metal comuns não elétricos
+auxserv_6_1_21_452,35,Comércio [através de qualquer meio] de caixas registradoras
+auxserv_6_1_21_453,35,Comércio [através de qualquer meio] de calçados
+auxserv_6_1_21_454,35,Comércio [através de qualquer meio] de capachos e esteiras
+auxserv_6_1_21_455,35,Comércio [através de qualquer meio] de caracteres de imprensa
+auxserv_6_1_21_456,35,Comércio [através de qualquer meio] de carpetes e tapetes
+auxserv_6_1_21_457,35,Comércio [através de qualquer meio] de cartas de baralho
+auxserv_6_1_21_458,35,Comércio [através de qualquer meio] de cera dentária
+auxserv_6_1_21_459,35,"Comércio [através de qualquer meio] de chicotes, arreios e artigos de selaria"
+auxserv_6_1_21_460,35,Comércio [através de qualquer meio] de chocadeiras
+auxserv_6_1_21_461,35,Comércio [através de qualquer meio] de clichês [imprensa]
+auxserv_6_1_21_462,35,Comércio [através de qualquer meio] de cofres
+auxserv_6_1_21_463,35,Comércio [através de qualquer meio] de colchetes e ilhoses [artigos de armarinho]
+auxserv_6_1_21_464,35,Comércio [através de qualquer meio] de combustíveis [incluindo a gasolina para motores]
+auxserv_6_1_21_465,35,Comércio [através de qualquer meio] de composições extintoras de fogo
+auxserv_6_1_21_466,35,Comércio [através de qualquer meio] de construções metálicas transportáveis
+auxserv_6_1_21_467,35,Comércio [através de qualquer meio] de construções transportáveis não metálicas
+auxserv_6_1_21_468,35,Comércio [através de qualquer meio] de cordas e fios
+auxserv_6_1_21_469,35,Comércio [através de qualquer meio] de cortiça semiprocessada
+auxserv_6_1_21_470,35,Comércio [através de qualquer meio] de cosméticos
+auxserv_6_1_21_471,35,Comércio [através de qualquer meio] de couro em bruto ou semiprocessado
+auxserv_6_1_21_472,35,Comércio [através de qualquer meio] de decorações para árvores de Natal
+auxserv_6_1_21_473,35,Comércio [através de qualquer meio] de dentifrícios
+auxserv_6_1_21_474,35,Comércio [através de qualquer meio] de desinfetantes
+auxserv_6_1_21_475,35,Comércio [através de qualquer meio] de discos acústicos
+auxserv_6_1_21_476,35,Comércio [através de qualquer meio] de emplastros
+auxserv_6_1_21_477,35,Comércio [através de qualquer meio] de engates de máquinas e componentes de transmissão [exceto para veículos terrestres]
+auxserv_6_1_21_478,35,Comércio [através de qualquer meio] de equipamento de processamento de dados e computadores
+auxserv_6_1_21_479,35,Comércio [através de qualquer meio] de escovas
+auxserv_6_1_21_480,35,Comércio [através de qualquer meio] de espelhos
+auxserv_6_1_21_481,35,Comércio [através de qualquer meio] de explosivos
+auxserv_6_1_21_482,35,Comércio [através de qualquer meio] de ferramentas manuais
+auxserv_6_1_21_483,35,Comércio [através de qualquer meio] de fios e fibras para uso têxtil
+auxserv_6_1_21_484,35,Comércio [através de qualquer meio] de fitas e laços
+auxserv_6_1_21_485,35,Comércio [através de qualquer meio] de flores artificiais
+auxserv_6_1_21_486,35,Comércio [através de qualquer meio] de fogos de artifício
+auxserv_6_1_21_487,35,Comércio [através de qualquer meio] de fósforos
+auxserv_6_1_21_488,35,Comércio [através de qualquer meio] de fotografias
+auxserv_6_1_21_489,35,Comércio [através de qualquer meio] de gelo
+auxserv_6_1_21_490,35,Comércio [através de qualquer meio] de goma
+auxserv_6_1_21_491,35,Comércio [através de qualquer meio] de graxas
+auxserv_6_1_21_492,35,Comércio [através de qualquer meio] de guarda-chuvas
+auxserv_6_1_21_493,35,Comércio [através de qualquer meio] de guarda-sóis
+auxserv_6_1_21_494,35,Comércio [através de qualquer meio] de guta-percha
+auxserv_6_1_21_495,35,Comércio [através de qualquer meio] de imitações de couro
+auxserv_6_1_21_496,35,Comércio [através de qualquer meio] de instrumentos agrícolas não manuais
+auxserv_6_1_21_497,35,Comércio [através de qualquer meio] de instrumentos manuais [propulsão muscular]
+auxserv_6_1_21_498,35,Comércio [através de qualquer meio] de instrumentos musicais
+auxserv_6_1_21_499,35,Comércio [através de qualquer meio] de jogos e brinquedos
+auxserv_6_1_21_500,35,Comércio [através de qualquer meio] de junco semiprocessado
+auxserv_6_1_21_501,35,Comércio [através de qualquer meio] de linóleo [piso em manta]
+auxserv_6_1_21_502,35,Comércio [através de qualquer meio] de livros
+auxserv_6_1_21_503,35,Comércio [através de qualquer meio] de loções para os cabelos
+auxserv_6_1_21_504,35,Comércio [através de qualquer meio] de lubrificantes
+auxserv_6_1_21_505,35,Comércio [através de qualquer meio] de madeira semiprocessada
+auxserv_6_1_21_506,35,Comércio [através de qualquer meio] de malas e bolsas de viagem
+auxserv_6_1_21_507,35,Comércio [através de qualquer meio] de máquinas de calcular
+auxserv_6_1_21_508,35,Comércio [através de qualquer meio] de máquinas de escrever
+auxserv_6_1_21_509,35,Comércio [através de qualquer meio] de máquinas distribuidoras automáticas
+auxserv_6_1_21_510,35,Comércio [através de qualquer meio] de máquinas-ferramentas
+auxserv_6_1_21_511,35,Comércio [através de qualquer meio] de materiais de construção metálicos
+auxserv_6_1_21_512,35,Comércio [através de qualquer meio] de materiais de construção não metálicos
+auxserv_6_1_21_513,35,Comércio [através de qualquer meio] de materiais impressos
+auxserv_6_1_21_514,35,Comércio [através de qualquer meio] de materiais metálicos para vias férreas
+auxserv_6_1_21_515,35,Comércio [através de qualquer meio] de materiais para artistas
+auxserv_6_1_21_516,35,Comércio [através de qualquer meio] de material de escritório
+auxserv_6_1_21_517,35,Comércio [através de qualquer meio] de material de instrução e de ensino
+auxserv_6_1_21_518,35,Comércio [através de qualquer meio] de material de limpeza
+auxserv_6_1_21_519,35,Comércio [através de qualquer meio] de material de sutura
+auxserv_6_1_21_520,35,Comércio [através de qualquer meio] de material para a fabricação de escovas
+auxserv_6_1_21_521,35,Comércio [através de qualquer meio] de material para curativos
+auxserv_6_1_21_522,35,Comércio [através de qualquer meio] de material para obturações dentárias
+auxserv_6_1_21_523,35,Comércio [através de qualquer meio] de matérias de enchimento
+auxserv_6_1_21_524,35,"Comércio [através de qualquer meio] de matérias para calafetar, vedar e isolar"
+auxserv_6_1_21_525,35,Comércio [através de qualquer meio] de matérias plásticas não processadas
+auxserv_6_1_21_526,35,Comércio [através de qualquer meio] de matérias plásticas para embalagem
+auxserv_6_1_21_527,35,Comércio [através de qualquer meio] de matérias têxteis fibrosas em bruto
+auxserv_6_1_21_528,35,Comércio [através de qualquer meio] de matérias tintoriais
+auxserv_6_1_21_529,35,Comércio [através de qualquer meio] de mecanismos para aparelhos operados com moedas
+auxserv_6_1_21_530,35,"Comércio [através de qualquer meio] de membros, olhos ou dentes artificiais"
+auxserv_6_1_21_531,35,Comércio [através de qualquer meio] de metais comuns e suas ligas
+auxserv_6_1_21_532,35,"Comércio [através de qualquer meio] de metais em folhas e em pó para pintores, decoradores, impressores e artistas"
+auxserv_6_1_21_533,35,Comércio [através de qualquer meio] de metais preciosos e suas ligas
+auxserv_6_1_21_534,35,Comércio [através de qualquer meio] de mica
+auxserv_6_1_21_535,35,Comércio [através de qualquer meio] de minérios
+auxserv_6_1_21_536,35,Comércio [através de qualquer meio] de mochilas
+auxserv_6_1_21_537,35,Comércio [através de qualquer meio] de molduras
+auxserv_6_1_21_538,35,Comércio [através de qualquer meio] de monumentos não metálicos
+auxserv_6_1_21_539,35,Comércio [através de qualquer meio] de mordentes [fixador para tintas]
+auxserv_6_1_21_540,35,Comércio [através de qualquer meio] de motores [exceto os motores para veículos terrestres]
+auxserv_6_1_21_541,35,Comércio [através de qualquer meio] de móveis
+auxserv_6_1_21_542,35,Comércio [através de qualquer meio] de munições e projéteis
+auxserv_6_1_21_543,35,Comércio [através de qualquer meio] de óleos essenciais
+auxserv_6_1_21_544,35,Comércio [através de qualquer meio] de óleos industriais
+auxserv_6_1_21_545,35,Comércio [através de qualquer meio] de óleos vegetais alimentícios
+auxserv_6_1_21_546,35,Comércio [através de qualquer meio] de palha de aço
+auxserv_6_1_21_547,35,Comércio [através de qualquer meio] de panelas
+auxserv_6_1_21_548,35,Comércio [através de qualquer meio] de papel e papelão
+auxserv_6_1_21_549,35,"Comércio [através de qualquer meio] de partes e componentes de aparelhos de locomoção por terra, por ar ou por água"
+auxserv_6_1_21_550,35,Comércio [através de qualquer meio] de partes e componentes de veículos
+auxserv_6_1_21_551,35,Comércio [através de qualquer meio] de pedras preciosas
+auxserv_6_1_21_552,35,Comércio [através de qualquer meio] de peles de animais
+auxserv_6_1_21_553,35,Comércio [através de qualquer meio] de pentes e esponjas
+auxserv_6_1_21_554,35,Comércio [através de qualquer meio] de pincéis
+auxserv_6_1_21_555,35,Comércio [através de qualquer meio] de plantas e flores naturais
+auxserv_6_1_21_556,35,Comércio [através de qualquer meio] de preparações de higiene pessoal não medicamentosas
+auxserv_6_1_21_557,35,Comércio [através de qualquer meio] de preparações farmacêuticas
+auxserv_6_1_21_558,35,Comércio [através de qualquer meio] de preparações higiênicas para uso medicinal
+auxserv_6_1_21_559,35,Comércio [através de qualquer meio] de preparações para branquear [lavanderia]
+auxserv_6_1_21_560,35,"Comércio [através de qualquer meio] de preparações para limpar, polir, desengordurar e decapar"
+auxserv_6_1_21_561,35,Comércio [através de qualquer meio] de preparações para temperar e soldar metais
+auxserv_6_1_21_562,35,Comércio [através de qualquer meio] de preparações veterinárias
+auxserv_6_1_21_563,35,Comércio [através de qualquer meio] de preservativos contra oxidação e contra a deterioração da madeira
+auxserv_6_1_21_564,35,Comércio [através de qualquer meio] de produtos abrasivos para limpeza
+auxserv_6_1_21_565,35,Comércio [através de qualquer meio] de produtos alimentícios [aves e ovos]
+auxserv_6_1_21_566,35,Comércio [através de qualquer meio] de produtos alimentícios [biscoitos]
+auxserv_6_1_21_567,35,Comércio [através de qualquer meio] de produtos alimentícios [bolos]
+auxserv_6_1_21_568,35,Comércio [através de qualquer meio] de produtos alimentícios [carnes vermelhas]
+auxserv_6_1_21_569,35,Comércio [através de qualquer meio] de produtos alimentícios [cereais]
+auxserv_6_1_21_570,35,Comércio [através de qualquer meio] de produtos alimentícios [chocolates]
+auxserv_6_1_21_571,35,Comércio [através de qualquer meio] de produtos alimentícios [doces]
+auxserv_6_1_21_572,35,"Comércio [através de qualquer meio] de produtos alimentícios [frutas, verduras e legumes]"
+auxserv_6_1_21_573,35,Comércio [através de qualquer meio] de produtos alimentícios [grãos]
+auxserv_6_1_21_574,35,Comércio [através de qualquer meio] de produtos alimentícios [laticínios]
+auxserv_6_1_21_575,35,Comércio [através de qualquer meio] de produtos alimentícios [massas]
+auxserv_6_1_21_576,35,Comércio [através de qualquer meio] de produtos alimentícios [pães]
+auxserv_6_1_21_577,35,Comércio [através de qualquer meio] de produtos alimentícios [peixes]
+auxserv_6_1_21_578,35,Comércio [através de qualquer meio] de produtos alimentícios [refeições congeladas]
+auxserv_6_1_21_579,35,Comércio [através de qualquer meio] de produtos alimentícios [salgadinhos]
+auxserv_6_1_21_580,35,Comércio [através de qualquer meio] de produtos alimentícios [sanduíches]
+auxserv_6_1_21_581,35,Comércio [através de qualquer meio] de produtos alimentícios [sorvetes]
+auxserv_6_1_21_582,35,Comércio [através de qualquer meio] de produtos alimentícios [sucos]
+auxserv_6_1_21_583,35,Comércio [através de qualquer meio] de produtos confeccionados de metais preciosos ou folheados
+auxserv_6_1_21_584,35,Comércio [através de qualquer meio] de produtos de metal comum
+auxserv_6_1_21_585,35,Comércio [através de qualquer meio] de produtos de perfumaria
+auxserv_6_1_21_586,35,Comércio [através de qualquer meio] de produtos de serralharia
+auxserv_6_1_21_587,35,Comércio [através de qualquer meio] de produtos em matérias plásticas semiprocessados
+auxserv_6_1_21_588,35,"Comércio [através de qualquer meio] de produtos para a destruição dos animais nocivos, fungicidas e herbicidas"
+auxserv_6_1_21_589,35,"Comércio [através de qualquer meio] de produtos para absorver, molhar e ligar a pó"
+auxserv_6_1_21_590,35,Comércio [através de qualquer meio] de publicações periódicas impressas
+auxserv_6_1_21_591,35,Comércio [através de qualquer meio] de redes
+auxserv_6_1_21_592,35,Comércio [através de qualquer meio] de rendas e bordados
+auxserv_6_1_21_593,35,Comércio [através de qualquer meio] de resinas artificiais não processadas
+auxserv_6_1_21_594,35,Comércio [através de qualquer meio] de resinas naturais em estado bruto
+auxserv_6_1_21_595,35,Comércio [através de qualquer meio] de revestimentos de assoalhos
+auxserv_6_1_21_596,35,Comércio [através de qualquer meio] de roupas
+auxserv_6_1_21_597,35,Comércio [através de qualquer meio] de sabões
+auxserv_6_1_21_598,35,Comércio [através de qualquer meio] de sacos e sacolas
+auxserv_6_1_21_599,35,Comércio [através de qualquer meio] de sementes
+auxserv_6_1_21_600,35,Comércio [através de qualquer meio] de substâncias adesivas destinadas à indústria
+auxserv_6_1_21_601,35,Comércio [através de qualquer meio] de substâncias dietéticas para uso medicinal
+auxserv_6_1_21_602,35,Comércio [através de qualquer meio] de substâncias para uso em lavanderia
+auxserv_6_1_21_603,35,"Comércio [através de qualquer meio] de substâncias químicas destinadas à agricultura, à horticultura e à silvicultura"
+auxserv_6_1_21_604,35,Comércio [através de qualquer meio] de substâncias químicas destinadas a conservar alimentos
+auxserv_6_1_21_605,35,Comércio [através de qualquer meio] de substâncias químicas destinadas à fotografia
+auxserv_6_1_21_606,35,Comércio [através de qualquer meio] de substâncias químicas destinadas à indústria
+auxserv_6_1_21_607,35,Comércio [através de qualquer meio] de substâncias químicas destinadas às ciências
+auxserv_6_1_21_608,35,Comércio [através de qualquer meio] de substâncias tanantes
+auxserv_6_1_21_609,35,Comércio [através de qualquer meio] de tabaco
+auxserv_6_1_21_610,35,Comércio [através de qualquer meio] de tapeçarias murais
+auxserv_6_1_21_611,35,Comércio [através de qualquer meio] de tecidos
+auxserv_6_1_21_612,35,Comércio [através de qualquer meio] de telas alcatroadas [lonas]
+auxserv_6_1_21_613,35,Comércio [através de qualquer meio] de tendas
+auxserv_6_1_21_614,35,"Comércio [através de qualquer meio] de tintas, vernizes, lacas"
+auxserv_6_1_21_615,35,Comércio [através de qualquer meio] de toldos
+auxserv_6_1_21_616,35,Comércio [através de qualquer meio] de tubos flexíveis não metálicos
+auxserv_6_1_21_617,35,Comércio [através de qualquer meio] de tubos metálicos
+auxserv_6_1_21_618,35,Comércio [através de qualquer meio] de tubos rígidos não metálicos para a construção
+auxserv_6_1_21_619,35,Comércio [através de qualquer meio] de utensílios e recipientes para a casa ou a cozinha
+auxserv_6_1_21_620,35,Comércio [através de qualquer meio] de veículos
+auxserv_6_1_21_621,35,Comércio [através de qualquer meio] de velas
+auxserv_6_1_21_622,35,Comércio [através de qualquer meio] de velas e pavios para iluminação
+auxserv_6_1_21_623,35,Comércio [através de qualquer meio] de vidro bruto ou semiacabado
+auxserv_6_1_21_624,35,Comércio [através de qualquer meio] de vime semiprocessado
+auxserv_6_1_21_625,35,Comércio [através de qualquer meio] de xaropes e preparações para bebidas
+auxserv_6_1_21_626,36,Comércio de imóveis
+auxserv_6_1_21_627,36,Companhia hipotecária [serviços financeiros]
+auxserv_6_1_21_628,36,Compensação de cheque [serviços financeiros]
+auxserv_6_1_21_629,42,Composição gráfica [criação em arte gráfica]
+auxserv_6_1_21_630,36,Compra e venda de imóveis
+auxserv_6_1_21_631,42,Computação gráfica [serviços de informática]
+auxserv_6_1_21_632,42,Concepção de protótipo [elaboração de projeto]
+auxserv_6_1_21_633,42,Concepção e projetos de maquetes e protótipos
+auxserv_6_1_21_634,42,"Concepção/elaboração de projeto de balão, míssil e aeronave para fim meteorológico"
+auxserv_6_1_21_635,36,Concessão de bolsas de estudo
+auxserv_6_1_21_636,35,Concessionária de veículos [comércio de veículos]
+auxserv_6_1_21_637,37,Concessionária de veículos [reparo/assistência técnica para veículos]
+auxserv_6_1_21_638,40,Confecção de artigo do vestuário sob encomenda
+auxserv_6_1_21_639,40,Confecção de etiqueta com código de barra
+auxserv_6_1_21_640,45,Confecção de mapa astral
+auxserv_6_1_21_641,40,Confecção de prótese dentária [protético]
+auxserv_6_1_21_642,40,Confecção/gravação de carimbos
+auxserv_6_1_21_643,37,Conserto de aparelho de som de veículo
+auxserv_6_1_21_644,37,Conserto de aparelho fotográfico
+auxserv_6_1_21_645,37,Conserto de autorrádio
+auxserv_6_1_21_646,37,Conserto de extintor
+auxserv_6_1_21_647,37,Conserto de guarda-chuva
+auxserv_6_1_21_648,37,Conserto de guarda-sol
+auxserv_6_1_21_649,37,Conserto de relógio
+auxserv_6_1_21_650,37,Conserto e manutenção de aparelhos audiovisuais eletroeletrônicos
+auxserv_6_1_21_651,37,Conserto e manutenção de aparelho auditivo
+auxserv_6_1_21_652,37,Conserto e manutenção de brinquedos
+auxserv_6_1_21_653,37,Conserto e manutenção de equipamentos de refrigeração
+auxserv_6_1_21_654,37,Conserto e manutenção de máquinas de lavar
+auxserv_6_1_21_655,37,Conserto e reparo de tapete
+auxserv_6_1_21_656,37,Conserto e reparo de tenda
+auxserv_6_1_21_657,37,Conserto e reparo de valises e malas
+auxserv_6_1_21_658,37,Conservação de campo de esporte
+auxserv_6_1_21_659,40,"Conservação de células, tecidos e organismos vivos em baixas temperaturas [criobiologia]"
+auxserv_6_1_21_660,37,Conservação de obras de arte
+auxserv_6_1_21_661,37,Conservação de piscina para a prática de esporte
+auxserv_6_1_21_662,37,Conservação de quadra para a prática de esporte
+auxserv_6_1_21_663,37,Conservação e manutenção de container
+auxserv_6_1_21_664,36,Consórcio de bens [serviços financeiros]
+auxserv_6_1_21_665,36,Consórcio funerário
+auxserv_6_1_21_666,36,Constituição e administração de fundo de investimento [serviços financeiros]
+auxserv_6_1_21_667,37,"Construção de estante para feira, exposição e loja"
+auxserv_6_1_21_668,37,Construção de fábrica
+auxserv_6_1_21_669,37,Construção de porto
+auxserv_6_1_21_670,37,Construção de vedação
+auxserv_6_1_21_671,37,Construção e reparação de obra civil
+auxserv_6_1_21_672,37,Construção e reparação em colocação de alvenaria
+auxserv_6_1_21_673,37,Construção e reparação em colocação de calha
+auxserv_6_1_21_674,37,Construção e reparação em colocação de cerca de arame
+auxserv_6_1_21_675,37,Construção e reparação em colocação de esquadria
+auxserv_6_1_21_676,37,Construção e reparação em colocação de piso
+auxserv_6_1_21_677,37,Construção e reparação em colocação de tela
+auxserv_6_1_21_678,37,Construção submarina
+auxserv_6_1_21_679,38,Consulta à lista telefônica por computador
+auxserv_6_1_21_680,45,Consulta de búzios
+auxserv_6_1_21_681,44,Consultas médicas [serviços médicos]
+auxserv_6_1_21_682,45,Consultoria em segurança do trabalho
+auxserv_6_1_21_683,38,"Consultoria referente a implantação, operação, gerenciamento e suporte de redes de telecomunicações e suas 
+configurações"
+auxserv_6_1_21_684,37,Consultoria técnica em coleta [seleção] de materiais
+auxserv_6_1_21_685,42,Controle ambiental de poluição do ar e sonora
+auxserv_6_1_21_686,37,Controle de estaqueamento
+auxserv_6_1_21_687,42,Controle de qualidade de processos/sistemas produtivos
+auxserv_6_1_21_688,42,Controle de qualidade de produtos
+auxserv_6_1_21_689,42,Controle de qualidade de serviços
+auxserv_6_1_21_690,42,Controle de qualidade do alimento
+auxserv_6_1_21_691,42,Controle de qualidade na indústria
+auxserv_6_1_21_692,42,Controle de qualidade para laboratório de análise clínica
+auxserv_6_1_21_693,39,Controle de rodovia
+auxserv_6_1_21_694,39,Controle de tráfego de veículos
+auxserv_6_1_21_695,35,Controle e registro de bovinos [gestão comercial]
+auxserv_6_1_21_696,37,Conversão de veículos a gasolina para gás natural
+auxserv_6_1_21_697,37,Conversão de veículos à gasolina para gás natural
+auxserv_6_1_21_698,36,Cooperativa de crédito
+auxserv_6_1_21_699,41,"Copidesque [edição de texto, exceto de publicidade]"
+auxserv_6_1_21_700,39,Correio [entrega de mensagem]
+auxserv_6_1_21_701,38,Correio [transmissão de mensagem]
+auxserv_6_1_21_702,39,Corretagem de frete [despachante de frete]
+auxserv_6_1_21_703,36,Corretagem de seguro financeiro
+auxserv_6_1_21_704,35,Corretagem de veículos
+auxserv_6_1_21_705,44,Corte de árvore
+auxserv_6_1_21_706,44,"Corte de cabelo masculino, feminino e infantil"
+auxserv_6_1_21_707,36,Cotações de bolsa de mercadoria e de futuro
+auxserv_6_1_21_708,43,Creche
+auxserv_6_1_21_709,36,Crédito educativo
+auxserv_6_1_21_710,44,Cria e engorda de gado bovino
+auxserv_6_1_21_711,44,Criação de gado [serviço agropecuário]
+auxserv_6_1_21_712,42,Criação de homepage
+auxserv_6_1_21_713,42,Criação de software de computação gráfica
+auxserv_6_1_21_714,42,Criação e projeto de planta para construção
+auxserv_6_1_21_715,40,Cromagem dos para-choques de veículo
+auxserv_6_1_21_716,41,Curso de ciências ocultas
+auxserv_6_1_21_717,41,Curso de idioma
+auxserv_6_1_21_718,41,Curso técnico de formação
+auxserv_6_1_21_719,41,Cursos livres [ensino]
+auxserv_6_1_21_720,36,Custódia de valor
+auxserv_6_1_21_721,42,Cyber café [aluguel de tempo de acesso a software]
+auxserv_6_1_21_722,38,Cyber café [aluguel de tempo de acesso à internet]
+auxserv_6_1_21_723,43,Cyber café [fornecimento de comida e bebida]
+auxserv_6_1_21_724,35,Datilografia
+auxserv_6_1_21_725,41,"Decoração de festas, cerimônias e eventos"
+auxserv_6_1_21_726,37,Dedetização
+auxserv_6_1_21_727,41,Demonstração de capoeira [esporte]
+auxserv_6_1_21_728,44,Depilação
+auxserv_6_1_21_729,36,Depósito de valores
+auxserv_6_1_21_730,36,Desconto de título de crédito
+auxserv_6_1_21_731,42,Desenho artístico
+auxserv_6_1_21_732,42,"Desenho de arte gráfica, inclusive para homepage"
+auxserv_6_1_21_733,37,Desentupimento e limpeza de cano e tubulação
+auxserv_6_1_21_734,42,Desenvolvimento de projetos técnicos sobre sistemas agroecológicos
+auxserv_6_1_21_735,42,Desenvolvimento de projetos técnicos sobre sistemas agroflorestais
+auxserv_6_1_21_736,44,Desenvolvimento e transferência de embrião animal
+auxserv_6_1_21_737,35,Desfile de moda com fim publicitário
+auxserv_6_1_21_738,41,Desfile de moda somente para entretenimento
+auxserv_6_1_21_739,42,Design de aplicativo de multimídia
+auxserv_6_1_21_740,42,Design de homepage
+auxserv_6_1_21_741,37,Desinfecção e limpeza de piscina
+auxserv_6_1_21_742,44,Desmatamento
+auxserv_6_1_21_743,35,Despachante aduaneiro [desembaraço e liberação de documento alfandegário]
+auxserv_6_1_21_744,35,Despachante para agilizar documento
+auxserv_6_1_21_745,41,Diagramação [editoração eletrônica de publicações]
+auxserv_6_1_21_746,42,Digitalização
+auxserv_6_1_21_747,41,Disc-jóquei
+auxserv_6_1_21_748,36,Disponibilização de crédito para efetuar chamada telefônica
+auxserv_6_1_21_749,35,Distribuição de brindes
+auxserv_6_1_21_750,41,Distribuição de brinquedos para caridade
+auxserv_6_1_21_751,43,Distribuição de cestas básicas a pessoas carentes
+auxserv_6_1_21_752,39,Distribuição de mercadorias para terceiros [transporte]
+auxserv_6_1_21_753,35,Distribuição de utensílio para diálise [comércio]
+auxserv_6_1_21_754,37,Dragagem
+auxserv_6_1_21_755,35,Drogaria [comércio]
+auxserv_6_1_21_756,44,Ducha e banho
+auxserv_6_1_21_757,35,Edição de texto publicitário
+auxserv_6_1_21_758,41,"Edição de texto, exceto de publicidade [copidesque]"
+auxserv_6_1_21_759,35,Elaboração de declaração de imposto de renda
+auxserv_6_1_21_760,45,"Elaboração, implementação, execução e avaliação de políticas sociais"
+auxserv_6_1_21_761,36,Emissão de bônus de valor
+auxserv_6_1_21_762,36,Emissão de debênture
+auxserv_6_1_21_763,35,Emissão de documentos e certidões oficiais
+auxserv_6_1_21_764,39,Emissão e venda de passagens
+auxserv_6_1_21_765,42,Emissão/validação de certificado digital
+auxserv_6_1_21_766,39,Empacotamento de mercadorias para fins de transporte
+auxserv_6_1_21_767,41,Empresário [organização e produção de espetáculos]
+auxserv_6_1_21_768,36,"Empréstimo contra garantia, penhor"
+auxserv_6_1_21_769,45,Encaminhamento de providências e orientação social a indivíduos e grupos
+auxserv_6_1_21_770,40,Encolhimento de tecido
+auxserv_6_1_21_771,42,Engenharia biológica
+auxserv_6_1_21_772,42,Ensaios técnicos para controle de qualidade de processos/sistemas produtivos
+auxserv_6_1_21_773,42,Ensaios técnicos para controle de qualidade de produtos
+auxserv_6_1_21_774,42,Ensaios técnicos para controle de qualidade de serviços
+auxserv_6_1_21_775,41,Ensino de história
+auxserv_6_1_21_776,41,Ensino de capoeira [esporte]
+auxserv_6_1_21_777,41,Ensino de chorinho [música]
+auxserv_6_1_21_778,41,Ensino de chorinho [prática instrumental]
+auxserv_6_1_21_779,41,Ensino de samba [dança]
+auxserv_6_1_21_780,41,Ensino de samba [música]
+auxserv_6_1_21_781,41,Ensino de samba [prática instrumental]
+auxserv_6_1_21_782,39,Entrega de correspondência
+auxserv_6_1_21_783,39,Entrega de malote
+auxserv_6_1_21_784,39,Entrega de mensagens animadas por meio de veículos ou ao vivo
+auxserv_6_1_21_785,39,Entrega de refeições [delivery]
+auxserv_6_1_21_786,42,Escaneamento
+auxserv_6_1_21_787,40,Escultor [artista plástico]
+auxserv_6_1_21_788,37,Esterilização de instrumentos cirúrgicos
+auxserv_6_1_21_789,40,Esterilização de alimento
+auxserv_6_1_21_790,44,Estética [tratamento da pele e cabelo]
+auxserv_6_1_21_791,44,Estética facial e corporal
+auxserv_6_1_21_792,44,Estética para animal [toalete animal]
+auxserv_6_1_21_793,37,Estimulação de poço e de controle de areal e água
+auxserv_6_1_21_794,39,"Estivagem [conjunto de operações destinadas à movimentação de mercadorias de terra para bordo, ou de uma 
+embarcação para outra, ou de bordo para terra]"
+auxserv_6_1_21_795,37,Estofador
+auxserv_6_1_21_796,35,"Estudos e pareceres pertinentes à macro e microeconomia, serviços estes prestados com fins de assessoria na gestão 
+de negócios e operação de uma empresa comercial"
+auxserv_6_1_21_797,44,Exame bacteriológico [análise clínica]
+auxserv_6_1_21_798,44,Exame de seqüência genética
+auxserv_6_1_21_799,35,Expedientes administrativos [auxílio administrativo]
+auxserv_6_1_21_800,42,Exploração submarina [pesquisa]
+auxserv_6_1_21_801,44,Extração de veneno de animal peçonhento
+auxserv_6_1_21_802,44,Extração florestal
+auxserv_6_1_21_803,41,Fã clube
+auxserv_6_1_21_804,35,Farmácia [comércio de produtos farmacêuticos]
+auxserv_6_1_21_805,44,Farmácia de manipulação [manipulação de medicamentos]
+auxserv_6_1_21_806,40,"Ferramentaria [transformação, tratamento ou beneficiamento]"
+auxserv_6_1_21_807,37,"Ferramentaria manual [reparação, montagem e construção]"
+auxserv_6_1_21_808,40,Folheamento a ouro
+auxserv_6_1_21_809,43,Fornecimento de cestas de café da manhã [serviços de alimentação]
+auxserv_6_1_21_810,35,Fornecimento de mão-de-obra [terceirização]
+auxserv_6_1_21_811,42,"Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de 
+dados localizado em uma rede mundial de computadores [se for uma ferramenta de busca]"
+auxserv_6_1_21_812,42,"Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de 
+dados localizado em uma rede mundial de computadores [desenvolvimento de um software/website para terceiros]"
+auxserv_6_1_21_813,38,"Fornecimento de mecanismos de busca para a obtenção, manutenção e distribuição de dados a partir de um banco de 
+dados localizado em uma rede mundial de computadores [provimento de acesso a um website]"
+auxserv_6_1_21_814,35,Fotocópia [reprodução de documentos]
+auxserv_6_1_21_815,42,Fotogrametria [fotocartografia]
+auxserv_6_1_21_816,40,Fotolito
+auxserv_6_1_21_817,35,"Franchising [sistema pelo qual empresa detentora de uma marca registrada, processo patenteado de produção ou 
+direitos similares concede a outras empresas licença de utilização dessas marcas ou processos, sob certas condições – 
+administração de negócios]"
+auxserv_6_1_21_818,45,Franchising referente ao licenciamento de marcas e patentes
+auxserv_6_1_21_819,39,Frigorífico [armazenagem de produto alimentício]
+auxserv_6_1_21_820,36,Garantia estendida
+auxserv_6_1_21_821,42,Geodesia [estudo e pesquisa]
+auxserv_6_1_21_822,42,Geografia [estudo e pesquisa]
+auxserv_6_1_21_823,42,Geologia [estudo e pesquisa]
+auxserv_6_1_21_824,40,Geração de energia e capacidade elétrica
+auxserv_6_1_21_825,35,Gerenciamento de banco de dados
+auxserv_6_1_21_826,45,Gestão de direitos autorais de obras audiovisuais [serviços jurídicos]
+auxserv_6_1_21_827,35,Gestão de franquia
+auxserv_6_1_21_828,36,Gestão de risco financeiro
+auxserv_6_1_21_829,35,Gestão pública/privada
+auxserv_6_1_21_830,40,"Gravação em vidro, placa e moeda"
+auxserv_6_1_21_831,41,Gravações musicais em VHS/DVD/CD [serviços de estúdio]
+auxserv_6_1_21_832,41,Grupo musical
+auxserv_6_1_21_833,44,Grupos de autoajuda [terapia em grupo]
+auxserv_6_1_21_834,39,Guarda-móveis [estabelecimento para depósito de móveis]
+auxserv_6_1_21_835,39,"Guarda-volume [sala ou lugar qualquer para, com segurança e por determinado tempo, se depositarem volumes]"
+auxserv_6_1_21_836,39,Guia de turismo
+auxserv_6_1_21_837,41,"Guias eletrônicos, revistas, jornais e boletins oferecidos ao consumidor online [somente para acesso, sem possibilidade 
+de download]"
+auxserv_6_1_21_838,35,Habilitação de celular [serviço de cadastro]
+auxserv_6_1_21_839,38,Habilitação de celular [serviço de telecomunicação]
+auxserv_6_1_21_840,42,Heliografia [estudo do sol] [estudo e pesquisa]
+auxserv_6_1_21_841,40,Heliografia [processo fotográfico]
+auxserv_6_1_21_842,42,Hidrologia [estudo e pesquisa]
+auxserv_6_1_21_843,44,Higiene animal [toalete animal]
+auxserv_6_1_21_844,42,Higrometria para indicação do tempo
+auxserv_6_1_21_845,42,História [pesquisa e levantamento arqueológico]
+auxserv_6_1_21_846,36,Home-banking
+auxserv_6_1_21_847,44,Horticultura [serviço agropecuário]
+auxserv_6_1_21_848,44,Hospital para plantas
+auxserv_6_1_21_849,43,Hotel para animais
+auxserv_6_1_21_850,44,Hotel para plantas
+auxserv_6_1_21_851,37,Impermeabilização em obra civil
+auxserv_6_1_21_852,35,Implantação de programa de controle de qualidade [controle empresarial]
+auxserv_6_1_21_853,42,Implantação de sistema [informática]
+auxserv_6_1_21_854,36,Incorporação de imóvel
+auxserv_6_1_21_855,36,"Informação sobre crédito de cheques, títulos e outros documentos"
+auxserv_6_1_21_856,36,Informe financeiro relacionado à assessoria econômico-financeira
+auxserv_6_1_21_857,44,Inseminação animal artificial
+auxserv_6_1_21_858,42,Inspeção de máquina e material
+auxserv_6_1_21_859,42,Inspeção de processos/sistemas produtivos para controle de qualidade
+auxserv_6_1_21_860,42,Inspeção de produtos para controle de qualidade
+auxserv_6_1_21_861,42,Inspeção de serviços para controle de qualidade
+auxserv_6_1_21_862,37,Instalação de aparelho de som para veículo
+auxserv_6_1_21_863,37,Instalação de cabo telefônico
+auxserv_6_1_21_864,37,"Instalação e conserto de ar condicionado, inclusive de veículo"
+auxserv_6_1_21_865,37,Instalação e conserto de rádio-comunicação
+auxserv_6_1_21_866,37,Instalação e conserto de telefone
+auxserv_6_1_21_867,37,Instalação e manutenção de instalações elétricas
+auxserv_6_1_21_868,37,Instalação e manutenção de instalações hidráulicas
+auxserv_6_1_21_869,37,Instalação e manutenção de instalações a gás
+auxserv_6_1_21_870,37,Instalação e reparação de alarme para veículo
+auxserv_6_1_21_871,37,"Instalação, manutenção e conserto de computador [hardware]"
+auxserv_6_1_21_872,37,"Instalação, manutenção e conserto de aparelhos domésticos a gás"
+auxserv_6_1_21_873,37,"Instalação, manutenção e reparo de estrutura de letreiro e de painel elétrico e eletrônico, inclusive de veículo"
+auxserv_6_1_21_874,37,"Instalação, reparo e manutenção de equipamentos de calefação"
+auxserv_6_1_21_875,39,Intermediação de carga
+auxserv_6_1_21_876,35,Intermediação na compra e venda de energia e capacidade elétrica
+auxserv_6_1_21_877,35,Inventário e gerência de estoque
+auxserv_6_1_21_878,44,Investigação de paternidade [exame]
+auxserv_6_1_21_879,44,Ioga e iogaterapia [terapias alternativas para saúde física e mental]
+auxserv_6_1_21_880,41,"Ioga e iogaterapia, sendo atividades desenvolvidas em academias de ginástica"
+auxserv_6_1_21_881,44,"Irrigação [rega artificial da terra por meio de canais, canos e levadas]"
+auxserv_6_1_21_882,40,Jateamento de areia em vidro
+auxserv_6_1_21_883,41,Jornalismo [reportagens]
+auxserv_6_1_21_884,44,Laboratório de análise clínica
+auxserv_6_1_21_885,40,Lapidação de pedra
+auxserv_6_1_21_886,40,Laqueação de madeira
+auxserv_6_1_21_887,37,Lavagem a vapor
+auxserv_6_1_21_888,36,Leasing [financiamento] de veículos
+auxserv_6_1_21_889,38,Leasing de espaço na internet
+auxserv_6_1_21_890,36,Leasing de imóveis
+auxserv_6_1_21_891,45,Leitura de carta cigana
+auxserv_6_1_21_892,45,Leitura de runas
+auxserv_6_1_21_893,45,Leitura de tarô
+auxserv_6_1_21_894,35,Levantamento mercadológico
+auxserv_6_1_21_895,45,Licenciamento de direitos autorais [serviços jurídicos]
+auxserv_6_1_21_896,45,Licenciamento ou cessão de direito de uso de programas de computação
+auxserv_6_1_21_897,35,"Licenciamento, compra e venda, leasing de marcas e patentes [intermediação de negócios comerciais]"
+auxserv_6_1_21_898,37,"Limpeza, reparo, e manutenção de rede de esgoto"
+auxserv_6_1_21_899,40,Linotipia
+auxserv_6_1_21_900,36,Liquidação de sinistro
+auxserv_6_1_21_901,40,Litografia
+auxserv_6_1_21_902,41,Locutor de eventos
+auxserv_6_1_21_903,39,Logística de distribuição para terceiros [armazenagem e transporte]
+auxserv_6_1_21_904,36,Loteamento imobiliário
+auxserv_6_1_21_905,37,Lustrador de artigo de madeira e do mobiliário [manutenção]
+auxserv_6_1_21_906,44,Manicure e pedicure
+auxserv_6_1_21_907,44,Manipulação de fórmulas medicinais
+auxserv_6_1_21_908,37,"Manutenção de balão, míssil e aeronave para fim meteorológico"
+auxserv_6_1_21_909,44,Manutenção de plantas [cultura de plantas]
+auxserv_6_1_21_910,37,"Maquete [construção de protótipos, maquetes e miniaturas para projetos arquitetônicos, empreendimentos imobiliários, 
+de acordo com projeto]"
+auxserv_6_1_21_911,42,Maquete eletrônica
+auxserv_6_1_21_912,42,Medição de energia elétrica
+auxserv_6_1_21_913,42,Medição e análise de solo
+auxserv_6_1_21_914,42,Medição e verificação de emissões de dióxido de carbono e outros gases estufas
+auxserv_6_1_21_915,44,Medicina chinesa e ayurvédica
+auxserv_6_1_21_916,45,Monitoramento e rastreamento de veículos e cargas [serviços de segurança]
+auxserv_6_1_21_917,37,Montagem de estruturas metálicas para eventos
+auxserv_6_1_21_918,36,Montepio
+auxserv_6_1_21_919,42,Museologia [pesquisa e estudo]
+auxserv_6_1_21_920,42,Oceanografia
+auxserv_6_1_21_921,44,Odontologia [cirurgião-dentista]
+auxserv_6_1_21_922,39,Operação de aeroportos [transporte]
+auxserv_6_1_21_923,39,Operação de estacionamento
+auxserv_6_1_21_924,39,Operação de portos [transporte]
+auxserv_6_1_21_925,39,Operação de rodovias [transporte]
+auxserv_6_1_21_926,36,Orçamento [avaliação financeira]
+auxserv_6_1_21_927,41,"Organização de evento esportivo, a saber, torneio de capoeira"
+auxserv_6_1_21_928,35,Organização de eventos para fins publicitários e/ou comerciais
+auxserv_6_1_21_929,45,Organização de grupos de apoio
+auxserv_6_1_21_930,41,Organização de programas de intercâmbio cultural e educativo
+auxserv_6_1_21_931,45,Organização doméstica [coordenação e planejamento na organização de espaços residenciais]
+auxserv_6_1_21_932,35,Organização e administração de empresa
+auxserv_6_1_21_933,44,Orientação nutricional
+auxserv_6_1_21_934,44,Orientação nutricional para alimentação natural e macrobiótica [serviços de saúde]
+auxserv_6_1_21_935,44,Orientação psicológica
+auxserv_6_1_21_936,35,Ouvidoria
+auxserv_6_1_21_937,35,"Padaria [comércio de pães, sem vistas ao consumo no local]"
+auxserv_6_1_21_938,35,Padaria [comércio de laticínios; sem vistas ao consumo no local]
+auxserv_6_1_21_939,35,"Padaria [comércio de carnes frias pré-cozidas, curadas ou defumadas; sem vistas ao consumo no local]"
+auxserv_6_1_21_940,35,Padaria [comércio de biscoitos; sem vistas ao consumo no local]
+auxserv_6_1_21_941,35,Padaria [comércio de bolos; sem vistas ao consumo no local]
+auxserv_6_1_21_942,35,Padaria [comércio de tortas; sem vistas ao consumo no local]
+auxserv_6_1_21_943,35,Padaria [comércio de doces; sem vistas ao consumo no local]
+auxserv_6_1_21_944,35,Padaria [comércio de salgados; sem vistas ao consumo no local]
+auxserv_6_1_21_945,35,Padaria [comércio de café moído; sem vistas ao consumo no local]
+auxserv_6_1_21_946,35,Padaria [comércio de preparações para fazer bebidas à base de chás; sem vistas ao consumo no local]
+auxserv_6_1_21_947,35,Padaria [comércio de bebidas não alcoólicas; sem vistas ao consumo no local]
+auxserv_6_1_21_948,43,Padaria [fornecimento de comidas e bebidas para consumo imediato]
+auxserv_6_1_21_949,42,Paleontologia [pesquisa e estudo]
+auxserv_6_1_21_950,41,Parque de diversão
+auxserv_6_1_21_951,36,Participação em outras sociedades
+auxserv_6_1_21_952,37,Pavimentação de estrada
+auxserv_6_1_21_953,36,Pecúlio
+auxserv_6_1_21_954,39,Pedágio
+auxserv_6_1_21_955,37,Perfuração do solo
+auxserv_6_1_21_956,35,Perícia contábil
+auxserv_6_1_21_957,44,Perícia legista
+auxserv_6_1_21_958,44,Perícia médica
+auxserv_6_1_21_959,44,Perícia médica/Perito médico-legista
+auxserv_6_1_21_960,44,Perícia na área sanitária
+auxserv_6_1_21_961,44,Perícia odontológica/Perito odonto-legista
+auxserv_6_1_21_962,35,Perícia técnica na área contábil
+auxserv_6_1_21_963,35,Perícia técnica na área de administração
+auxserv_6_1_21_964,42,Perícia técnica na área de arquitetura
+auxserv_6_1_21_965,42,Perícia técnica na área de biologia
+auxserv_6_1_21_966,42,Perícia técnica na área de computação e informática
+auxserv_6_1_21_967,36,Perícia técnica na área de economia
+auxserv_6_1_21_968,42,Perícia técnica na área de engenharia
+auxserv_6_1_21_969,44,Perícia técnica na área de farmácia
+auxserv_6_1_21_970,42,Perícia técnica na área de física
+auxserv_6_1_21_971,44,Perícia técnica na área de fisioterapia
+auxserv_6_1_21_972,44,Perícia técnica na área de fonoaudiologia
+auxserv_6_1_21_973,42,Perícia técnica na área de geologia
+auxserv_6_1_21_974,42,Perícia técnica na área de matemática
+auxserv_6_1_21_975,36,Perícia técnica na área financeira
+auxserv_6_1_21_976,42,Perícia técnica na área química
+auxserv_6_1_21_977,39,Pesagem de mercadoria
+auxserv_6_1_21_978,42,Pesquisa científica sobre assuntos de natureza paranormal
+auxserv_6_1_21_979,42,Pesquisa de bens minerais
+auxserv_6_1_21_980,35,Pesquisa de mercado
+auxserv_6_1_21_981,42,"Pesquisa no campo da ciência e tecnologia sobre a existência de vida inteligente no universo, astronomia e ciências 
+planetárias"
+auxserv_6_1_21_982,42,Pesquisas agropecuárias
+auxserv_6_1_21_983,42,Pesquisas navais
+auxserv_6_1_21_984,42,Pesquisa sobre sistemas agroecológicos
+auxserv_6_1_21_985,42,Pesquisa sobre sistemas agroflorestais
+auxserv_6_1_21_986,42,Pintor [artista plástico]
+auxserv_6_1_21_987,42,Pintura à mão em tecido
+auxserv_6_1_21_988,42,Pintura artística
+auxserv_6_1_21_989,44,Piscicultura
+auxserv_6_1_21_990,42,"Planejamento, confecção, manutenção e atualização de páginas eletrônicas"
+auxserv_6_1_21_991,42,Planimetria [levantamento topográfico]
+auxserv_6_1_21_992,36,"Plano de assistência técnica automotiva, venda e administração"
+auxserv_6_1_21_993,36,"Plano de saúde, venda e administração"
+auxserv_6_1_21_994,36,"Plano funerário, venda e administração"
+auxserv_6_1_21_995,40,Plastificação
+auxserv_6_1_21_996,40,Plotagem
+auxserv_6_1_21_997,42,Pluviometria ou udometria
+auxserv_6_1_21_998,45,Porteiro
+auxserv_6_1_21_999,41,Prática de capoeira [esporte]
+auxserv_6_1_21_1000,41,Prática de chorinho [música]
+auxserv_6_1_21_1001,41,Prática de chorinho [prática instrumental]
+auxserv_6_1_21_1002,41,Prática de grupo carnavalesco
+auxserv_6_1_21_1003,41,Prática de samba [dança]
+auxserv_6_1_21_1004,41,Prática de samba [música]
+auxserv_6_1_21_1005,41,Prática de samba [prática instrumental]
+auxserv_6_1_21_1006,44,Preparação de terra
+auxserv_6_1_21_1007,40,Processamento e compressão de gás
+auxserv_6_1_21_1008,44,"Produção de coberturas reprodutivas, reprodutores, matrizes, embriões, de sêmen, produtos genéticos e de reprodução 
+de gado bovino e produtos agropecuários"
+auxserv_6_1_21_1009,35,Programa de qualidade total [gestão empresarial]
+auxserv_6_1_21_1010,42,Programação visual
+auxserv_6_1_21_1011,35,Programas de cartão de pontuação [tipo programa de milhagem/fidelidade]
+auxserv_6_1_21_1012,42,Projeto de arquitetura
+auxserv_6_1_21_1013,42,Projeto de decoração
+auxserv_6_1_21_1014,42,Projeto de distribuição de água
+auxserv_6_1_21_1015,42,Projeto de distribuição de energia elétrica
+auxserv_6_1_21_1016,42,Projeto de engenharia aeronáutica
+auxserv_6_1_21_1017,42,Projeto de engenharia agrícola
+auxserv_6_1_21_1018,42,Projeto de engenharia agronômica
+auxserv_6_1_21_1019,42,Projeto de engenharia civil
+auxserv_6_1_21_1020,42,Projeto de engenharia da computação
+auxserv_6_1_21_1021,42,Projeto de engenharia de alimento
+auxserv_6_1_21_1022,42,Projeto de engenharia de automóvel
+auxserv_6_1_21_1023,42,Projeto de engenharia de controle de qualidade
+auxserv_6_1_21_1024,42,Projeto de engenharia de material
+auxserv_6_1_21_1025,42,Projeto de engenharia de mina
+auxserv_6_1_21_1026,42,Projeto de engenharia de pesca
+auxserv_6_1_21_1027,42,Projeto de engenharia de produção
+auxserv_6_1_21_1028,42,Projeto de engenharia de qualquer natureza
+auxserv_6_1_21_1029,42,Projeto de engenharia de segurança do trabalho
+auxserv_6_1_21_1030,42,Projeto de engenharia de tráfego
+auxserv_6_1_21_1031,42,Projeto de engenharia elétrica
+auxserv_6_1_21_1032,42,Projeto de engenharia eletrônica
+auxserv_6_1_21_1033,42,Projeto de engenharia florestal
+auxserv_6_1_21_1034,42,Projeto de engenharia genética
+auxserv_6_1_21_1035,42,Projeto de engenharia industrial
+auxserv_6_1_21_1036,42,Projeto de engenharia mecânica
+auxserv_6_1_21_1037,42,Projeto de engenharia metalúrgica
+auxserv_6_1_21_1038,42,Projeto de engenharia naval
+auxserv_6_1_21_1039,42,Projeto de engenharia nuclear
+auxserv_6_1_21_1040,42,Projeto de engenharia oceânica
+auxserv_6_1_21_1041,42,Projeto de engenharia química
+auxserv_6_1_21_1042,42,Projeto de engenharia sanitarista
+auxserv_6_1_21_1043,42,Projeto de engenharia têxtil
+auxserv_6_1_21_1044,42,Projeto de geração de energia elétrica
+auxserv_6_1_21_1045,42,Projeto de química
+auxserv_6_1_21_1046,42,Projeto de sistema de computador
+auxserv_6_1_21_1047,42,Projeto de tubulação
+auxserv_6_1_21_1048,42,Projeto e cálculo
+auxserv_6_1_21_1049,42,Projeto industrial
+auxserv_6_1_21_1050,42,Projeto na área de segurança do trabalho
+auxserv_6_1_21_1051,42,Projetos de automação industrial
+auxserv_6_1_21_1052,35,Promoção de venda para terceiros [publicidade]
+auxserv_6_1_21_1053,41,Promotor de eventos [se artísticos/culturais]
+auxserv_6_1_21_1054,35,Promotor de eventos [se comerciais]
+auxserv_6_1_21_1055,36,Proteção ao crédito
+auxserv_6_1_21_1056,40,Protético [serviço técnico de odontologia]
+auxserv_6_1_21_1057,38,Provedor de acesso [telecomunicação]
+auxserv_6_1_21_1058,38,Provimento de acesso a lojas eletrônicas [telecomunicação]
+auxserv_6_1_21_1059,45,Provimento de assinaturas digitais [segurança informática]
+auxserv_6_1_21_1060,42,Provimento de assinaturas eletrônicas [autenticação de dados]
+auxserv_6_1_21_1061,41,"Provimento de website a disponibilizar foto, áudio e vídeo, não baixável [serviço de entretenimento]"
+auxserv_6_1_21_1062,44,Psicologia animal
+auxserv_6_1_21_1063,44,"Psicometria [medida da duração e da intensidade de processos mentais, por meio de métodos padronizados]"
+auxserv_6_1_21_1064,44,Psicopedologia [estudo da atividade psíquica infantil]
+auxserv_6_1_21_1065,44,Psicoterapia
+auxserv_6_1_21_1066,44,"Psicroterapia [terapia que se vale do frio, empregando-o de modos diversos]"
+auxserv_6_1_21_1067,44,Psiquiatria
+auxserv_6_1_21_1068,35,Publicidade por qualquer meio
+auxserv_6_1_21_1069,44,Pulverização [agropecuária]
+auxserv_6_1_21_1070,44,"Quiroprática [sistema terapêutico que, partindo do pressuposto de que as doenças resultam de disfunção nervosa, 
+procuram corrigi-las por manipulação, e por outros cuidados, de estruturas; quiropraxia]"
+auxserv_6_1_21_1071,38,Radioastronomia
+auxserv_6_1_21_1072,38,Rádio-chamada
+auxserv_6_1_21_1073,38,Radiocomunicação
+auxserv_6_1_21_1074,38,Radiocomunicação terrestre ou espacial
+auxserv_6_1_21_1075,38,"Radiodeterminação [determinação, mediante o emprego de ondas radioelétricas, da posição de um móvel ou da direção 
+ou distância em que este se encontra em relação a um ou dois pontos conhecidos]"
+auxserv_6_1_21_1076,38,Radiofonia
+auxserv_6_1_21_1077,38,Radiolocalização
+auxserv_6_1_21_1078,38,Radionavegação
+auxserv_6_1_21_1079,38,Radiossonda [transmissão de dados meteorológicos]
+auxserv_6_1_21_1080,44,Ranário [criação de rã]
+auxserv_6_1_21_1081,42,Rastreabilidade de processos/sistemas produtivos [controle de qualidade]
+auxserv_6_1_21_1082,42,Rastreabilidade de produtos [controle de qualidade]
+auxserv_6_1_21_1083,42,Rastreabilidade de serviços [controle de qualidade]
+auxserv_6_1_21_1084,38,Rastreamento de bovinos [radiolocalização]
+auxserv_6_1_21_1085,44,"Reabilitações físicas, mentais e emocionais [serviços médicos]"
+auxserv_6_1_21_1086,42,Realização de testes e medições para controle de qualidade de processos/sistemas produtivos
+auxserv_6_1_21_1087,42,Realização de testes e medições para controle de qualidade de produtos
+auxserv_6_1_21_1088,42,Realização de testes e medições para controle de qualidade de serviços
+auxserv_6_1_21_1089,37,Reconstrução de edificações [reedificação]
+auxserv_6_1_21_1090,40,Recozimento de metal
+auxserv_6_1_21_1091,37,recuperação de arma e equipamento bélico
+auxserv_6_1_21_1092,44,Recuperação de plantas [cultura de plantas]
+auxserv_6_1_21_1093,39,"Reembolso postal [sistema de vendas em que a mercadoria chega à mão do comprador pelo correio, por intermédio do 
+qual é feito o pagamento]"
+auxserv_6_1_21_1094,37,Reencadernação de livro [serviço de reparação de encadernação]
+auxserv_6_1_21_1095,45,Relocalização de indivíduos [investigação  de pessoas desaparecidas]
+auxserv_6_1_21_1096,37,Reparação de barraca
+auxserv_6_1_21_1097,37,Reparação de bolsas
+auxserv_6_1_21_1098,37,Reparação de cachimbo
+auxserv_6_1_21_1099,37,Reparação de equipamento de gás [serviço de manutenção e reparo]
+auxserv_6_1_21_1100,37,Reparação de furador de papel
+auxserv_6_1_21_1101,37,Reparação de grampeador [artigo de escritório]
+auxserv_6_1_21_1102,37,Reparação de isqueiro
+auxserv_6_1_21_1103,37,Reparação de monumento [serviço de manutenção e reparo]
+auxserv_6_1_21_1104,37,Reparação de piteira
+auxserv_6_1_21_1105,37,Reparação e conservação de adorno [serviço de manutenção e reparo]
+auxserv_6_1_21_1106,37,Reparação de câmara de ar
+auxserv_6_1_21_1107,37,Reparação e manutenção da estrutura de letreiro e painel não elétrico
+auxserv_6_1_21_1108,37,Reparo de estampas
+auxserv_6_1_21_1109,37,Reparo de fechadura
+auxserv_6_1_21_1110,37,Reparo de moldes para estamparia [serviço de manutenção e reparo]
+auxserv_6_1_21_1111,37,Reparo ou manutenção de aparelhos e equipamentos de uso em barbearia e salões de beleza
+auxserv_6_1_21_1112,37,Repassagem de roupa
+auxserv_6_1_21_1113,35,Representação comercial
+auxserv_6_1_21_1114,35,"Representação comercial de aparelho elétrico, eletrônico e térmico"
+auxserv_6_1_21_1115,45,"Representação e defesa de causas de caráter social, defesa dos direitos humanos, defesa do meio ambiente, defesa 
+das minorias étnicas perante órgãos da administração pública ou diante da opinião pública"
+auxserv_6_1_21_1116,45,"Representação jurídica de associados, grupos civis organizados ou da sociedade civil para defesa de interesses e 
+direitos individuais, coletivos e difusos"
+auxserv_6_1_21_1117,45,"Representação, diante da Administração Pública ou de entidades privadas, de associados, grupos civis organizados ou 
+da sociedade civil para defesa de interesses e direitos individuais, coletivos e difusos"
+auxserv_6_1_21_1118,41,Reserva e emissão de bilhetes para shows
+auxserv_6_1_21_1119,37,Restauração de afresco [serviço de restauração de obra artística]
+auxserv_6_1_21_1120,37,Restauração de obra sacra e histórica [serviço de restauração de obra artística]
+auxserv_6_1_21_1121,40,Restauração e conservação de fotografias
+auxserv_6_1_21_1122,40,Revestimento de poliuretano em peça [serviço de tratamento de materiais]
+auxserv_6_1_21_1123,41,Salas de cinema
+auxserv_6_1_21_1124,39,Salvamento em transporte
+auxserv_6_1_21_1125,40,"Sapateiro, confecção sob medida"
+auxserv_6_1_21_1126,37,"Sapateiro, conserto e reparo"
+auxserv_6_1_21_1127,36,Seguro contra acidente
+auxserv_6_1_21_1128,40,Separação e tratamento de resíduos urbanos para reciclagem
+auxserv_6_1_21_1129,37,Serralheria [conserto]
+auxserv_6_1_21_1130,40,Serralheria [fabricação]
+auxserv_6_1_21_1131,45,"Serviço de acompanhante de pessoas com limitações motoras, exceto enfermagem"
+auxserv_6_1_21_1132,44,Serviço de agricultura agroecológica
+auxserv_6_1_21_1133,44,Serviço de agricultura agroflorestal
+auxserv_6_1_21_1134,36,Serviço de carteira de compensação entre negócios
+auxserv_6_1_21_1135,45,Serviço de contagem de tempo de serviço de trabalhadores [serviços jurídicos]
+auxserv_6_1_21_1136,35,Serviço de corretor de publicidade
+auxserv_6_1_21_1137,40,Serviço de injeção de plástico
+auxserv_6_1_21_1138,44,Serviço de maquiagem
+auxserv_6_1_21_1139,40,Serviço de mistura de tintas
+auxserv_6_1_21_1140,45,Serviço de monitoramento de clientes bancários [videovigilância]
+auxserv_6_1_21_1141,44,Serviço de nutricionista
+auxserv_6_1_21_1142,42,Serviço de química [pesquisa e análise para fim industrial]
+auxserv_6_1_21_1143,39,Serviço de radiofarol
+auxserv_6_1_21_1144,37,Serviço de recarga para cartucho de impressora
+auxserv_6_1_21_1145,41,Serviço de repórter [agência de notícia]
+auxserv_6_1_21_1146,42,Serviço de segurança bancária por meio de utilização de senha [software]
+auxserv_6_1_21_1147,38,Serviço de transmissão de noticiário
+auxserv_6_1_21_1148,45,Serviço funerário
+auxserv_6_1_21_1149,45,Serviço personalizado de compras para terceiros  [serviços de comprador pessoal]
+auxserv_6_1_21_1150,45,"Serviço socioassistencial de acolhimento de indigentes [abordagem, troca de informações e encaminhamento]"
+auxserv_6_1_21_1151,45,"Serviços de assistência jurídica, prestados a título de assistência social"
+auxserv_6_1_21_1152,44,Serviços de barbeiro
+auxserv_6_1_21_1153,43,Serviços de berçário
+auxserv_6_1_21_1154,37,Serviços de bombeiro hidráulico
+auxserv_6_1_21_1155,40,Serviços de bordadeira
+auxserv_6_1_21_1156,37,Serviços de borracharia
+auxserv_6_1_21_1157,37,Serviços de borracheiro
+auxserv_6_1_21_1158,44,Serviços de botânica
+auxserv_6_1_21_1159,39,Serviços de busca e resgate de aeronave
+auxserv_6_1_21_1160,41,Serviços de caligrafia
+auxserv_6_1_21_1161,38,"Serviços de carregamento, compartilhamento e postagem de fotos áudio e vídeo  [transmissão]"
+auxserv_6_1_21_1162,42,Serviços de cartografia
+auxserv_6_1_21_1163,45,Serviços de cartório [notariado]
+auxserv_6_1_21_1164,45,Serviços de caseiro
+auxserv_6_1_21_1165,41,Serviços de cenografia
+auxserv_6_1_21_1166,37,Serviços de centro de diagnóstico de veículo [serviços de manutenção/reparo de automóveis]
+auxserv_6_1_21_1167,35,Serviços de cerimonial [planejamento de eventos] com fins comerciais ou publicitários
+auxserv_6_1_21_1168,41,Serviços de cerimonial [planejamento de eventos] sem fins comerciais ou publicitários
+auxserv_6_1_21_1169,40,Serviços de cerzideira
+auxserv_6_1_21_1170,37,"Serviços de chaveiro [conserto, manutenção e reparo de fechaduras]"
+auxserv_6_1_21_1171,40,Serviços de chaveiro [fabricação de chaves e fechaduras]
+auxserv_6_1_21_1172,40,Serviços de clicheria
+auxserv_6_1_21_1173,44,Serviços de coleta de leite [ordenha]
+auxserv_6_1_21_1174,35,"Serviços de colocação e recolocação no mercado de trabalho, prestados a título de assistência social"
+auxserv_6_1_21_1175,42,Serviços de cometografia [estudos em astronomia cometária]
+auxserv_6_1_21_1176,41,Serviços de companhia teatral
+auxserv_6_1_21_1177,35,Serviços de compilação e disponibilização de listas de casamento
+auxserv_6_1_21_1178,38,"Serviços de comunicação para a transmissão de uma transação eletrônica de um estabelecimento até uma central de 
+processamento [telecomunicação]"
+auxserv_6_1_21_1179,41,Serviços de concepção de programas de TV/rádio
+auxserv_6_1_21_1180,41,Serviços de conjunto musical [serviços de entretenimento]
+auxserv_6_1_21_1181,37,Serviços de conservação e limpeza em campo de esporte
+auxserv_6_1_21_1182,37,Serviços de construtor
+auxserv_6_1_21_1183,43,Serviços de copeiras
+auxserv_6_1_21_1184,45,"Serviços de cuidados pessoais voltados para a população carente, com fins de reabilitação social, prestados a título de 
+assistência social [dar banho, vestir, pentear, alimentar com finalidade de atender a necessidades individuais 
+específicas]"
+auxserv_6_1_21_1185,42,Serviços de desenvolvimento de banco de dados [informática]
+auxserv_6_1_21_1186,36,Serviços de detecção de fraudes contra cartões de crédito
+auxserv_6_1_21_1187,41,"Serviços de educação, prestados a título de assistência social"
+auxserv_6_1_21_1188,42,Serviços de engenharia e planejamento no campo de redes de informação e comunicações
+auxserv_6_1_21_1189,37,Serviços de engraxate
+auxserv_6_1_21_1190,41,"Serviços de entretenimento, a saber, torneios de capoeira"
+auxserv_6_1_21_1191,45,Serviços de escort
+auxserv_6_1_21_1192,35,Serviços de fatura [emissão de notas fiscais]
+auxserv_6_1_21_1193,45,Serviços de governança doméstica
+auxserv_6_1_21_1194,44,Serviços de hibridação [cruzamento fecundo entre indivíduos diferentes na variedade ou na espécie]
+auxserv_6_1_21_1195,45,Serviços de identificação biométrica
+auxserv_6_1_21_1196,42,"Serviços de ilustrações gráficas, técnicas e simulações gráficas de projeto"
+auxserv_6_1_21_1197,42,Serviços de ilustradores
+auxserv_6_1_21_1198,44,Serviços de incubadora de ovos
+auxserv_6_1_21_1199,41,"Serviços de lazer e entretenimento, prestados a título de assistência social"
+auxserv_6_1_21_1200,45,Serviços de lobby para fins que não sejam comerciais
+auxserv_6_1_21_1201,44,Serviços de medicina à distância
+auxserv_6_1_21_1202,45,"Serviços de organização de encontros com finalidade de autoajuda, prestados a título de assistência social"
+auxserv_6_1_21_1203,45,"Serviços de organização de encontros com finalidade de integração social, prestados a título de assistência social"
+auxserv_6_1_21_1204,45,"Serviços de orientação espiritual e filosófica, prestados a título de assistência social"
+auxserv_6_1_21_1205,37,Serviços de pedreiro
+auxserv_6_1_21_1206,44,Serviços de pesca/ captura de pescado
+auxserv_6_1_21_1207,37,Serviços de pinturas viárias
+auxserv_6_1_21_1208,41,Serviços de premiação
+auxserv_6_1_21_1209,35,Serviços de programa de incentivo a funcionários
+auxserv_6_1_21_1210,35,"Serviços de programas de fidelidade [clube, cartão, talão]"
+auxserv_6_1_21_1211,42,"Serviços de projetos arquitetônicos de casas populares, prestados a título de assistência social"
+auxserv_6_1_21_1212,35,"Serviços de promoção de campanhas publicitárias com vistas à prevenção de doenças, a título de assistência social"
+auxserv_6_1_21_1213,45,"Serviços de promoção de relacionamento interpessoal, prestados a título de assistência social"
+auxserv_6_1_21_1214,44,Serviços de raio-x
+auxserv_6_1_21_1215,44,"Serviços de reabilitação física, motora e emocional prestados a título de assistência social"
+auxserv_6_1_21_1216,37,Serviços de recarga de cartuchos ou toner vazios
+auxserv_6_1_21_1217,36,"Serviços de recarga de créditos de cartões magnéticos do tipo: vale refeição, alimentação ou combustível"
+auxserv_6_1_21_1218,41,"Serviços de representação de classe, a saber, organização de atividades de lazer e entretenimento"
+auxserv_6_1_21_1219,45,Serviços de segurança rodoviária
+auxserv_6_1_21_1220,37,"Serviços de sinalização [instalação, manutenção e construção]"
+auxserv_6_1_21_1221,42,Serviços de sinalização [projetos arquitetônicos e engenharia]
+auxserv_6_1_21_1222,41,Serviços de sinuca [entretenimento]
+auxserv_6_1_21_1223,44,Serviços de terapia
+auxserv_6_1_21_1224,36,Serviços de time sharing
+auxserv_6_1_21_1225,44,Serviços fisioterápicos prestados a título de assistência social
+auxserv_6_1_21_1226,45,"Serviços jurídicos, a saber, provimento de informação personalizada, consultoria, aconselhamento e solução de litígios, 
+todos na área de imigração"
+auxserv_6_1_21_1227,44,Serviços médicos prestados a título de assistência social
+auxserv_6_1_21_1228,44,Serviços odontológicos prestados a título de assistência social
+auxserv_6_1_21_1229,41,"Serviços prestados por entidades de representação de classe, a saber, apresentação de cursos, treinamentos, palestras 
+e seminários"
+auxserv_6_1_21_1230,45,"Serviços prestados por entidades de representação de classe, a saber, assistência jurídica aos associados"
+auxserv_6_1_21_1231,42,"Serviços prestados por entidades de representação de classe, a saber, controle de qualidade de produtos ou de serviços 
+prestados por profissionais"
+auxserv_6_1_21_1232,36,"Serviços prestados por entidades de representação de classe, a saber, gestão de fundo de pensão para os seus 
+associados"
+auxserv_6_1_21_1233,36,"Serviços prestados por entidades de representação de classe, a saber, gestão de planos de saúde para os seus 
+associados"
+auxserv_6_1_21_1234,45,"Serviços prestados por entidades de representação de classe, a saber, informações sobre legislação trabalhista"
+auxserv_6_1_21_1235,35,"Serviços prestados por entidades de representação de classe, a saber, intermediação comercial para os seus 
+associados."
+auxserv_6_1_21_1236,35,"Serviços prestados por entidades de representação de classe, a saber, promoção de negócios dos associados"
+auxserv_6_1_21_1237,45,"Serviços prestados por entidades de representação de classe, a saber, representação diante da Administração Pública 
+ou de entidades privadas."
+auxserv_6_1_21_1238,45,"Serviços prestados por entidades de representação de classe, a saber, representação jurídica de uma determinada 
+classe"
+auxserv_6_1_21_1239,35,"Serviços prestados por entidades de representação de classe, a saber, serviços de administração de convênios de 
+benefícios"
+auxserv_6_1_21_1240,36,"Serviços prestados por entidades de representação de classe, a saber, serviços de administração de planos de 
+previdência privada"
+auxserv_6_1_21_1241,36,"Serviços prestados por entidades de representação de classe, a saber, serviços de captação de recursos financeiros 
+para seus associados"
+auxserv_6_1_21_1242,36,"Serviços prestados por entidades de representação de classe, a saber, serviços de fornecimento de crédito para os seus 
+associados"
+auxserv_6_1_21_1243,35,"Serviços prestados por entidades de representação de classe, a saber, sistematização de informações em bancos de 
+dados para a inclusão e disponibilização de currículos e ofertas de empregos"
+auxserv_6_1_21_1244,35,"Serviços prestados por entidades sindicais, a saber, administração de convênios de benefícios"
+auxserv_6_1_21_1245,45,"Serviços prestados por entidades sindicais, a saber, orientação e assistência jurídica aos seus associados"
+auxserv_6_1_21_1246,36,"Serviços prestados por entidades sindicais, a saber, promoção de crédito para os seus associados"
+auxserv_6_1_21_1247,45,"Serviços prestados por entidades sindicais, a saber, representação e defesa dos interesses das organizações 
+associativas, patronais e empresariais diante da administração pública ou de entidades privadas e em negociações 
+trabalhistas"
+auxserv_6_1_21_1248,45,"Serviços prestados por entidades sindicais, a saber, representação e defesa dos interesses trabalhistas por 
+organizações sindicais diante da administração pública ou de entidades privadas e em negociações trabalhistas"
+auxserv_6_1_21_1249,41,"Serviços prestados por entidades sindicais, a saber, serviços de ensino"
+auxserv_6_1_21_1250,44,"Serviços prestados por entidades sindicais, a saber, serviços médicos para os seus associados"
+auxserv_6_1_21_1251,42,"Serviços prestados por órgão fiscalizador da profissão, a saber, avaliação de serviços profissionais, no intuito de medir a 
+conformidade destes serviços às normas profissionais vigentes"
+auxserv_6_1_21_1252,44,Serviços psicológicos prestados a título de assistência social
+auxserv_6_1_21_1253,40,Silk-screen [serigrafia]
+auxserv_6_1_21_1254,42,Silvicultura [estudo e pesquisa]
+auxserv_6_1_21_1255,44,Silvimetria
+auxserv_6_1_21_1256,35,Site para efetuar o licenciamento eletrônico de veículos
+auxserv_6_1_21_1257,36,"Site para efetuar pagamentos de taxas, consórcios, mensalidades"
+auxserv_6_1_21_1258,42,Sites de busca [fornecimento de mecanismos de busca na Internet]
+auxserv_6_1_21_1259,42,Sondagem de solo e subsolo
+auxserv_6_1_21_1260,41,Sonorização
+auxserv_6_1_21_1261,41,Sonorização de eventos para empresas e similares
+auxserv_6_1_21_1262,43,SPA [serviço de hospedagem e fornecimento de refeições]
+auxserv_6_1_21_1263,44,SPA [serviços médicos ou estéticos]
+auxserv_6_1_21_1264,36,Subscrição de seguro
+auxserv_6_1_21_1265,35,Supermercado [comércio de alimentos]
+auxserv_6_1_21_1266,35,Supermercado [comércio de rações para animais]
+auxserv_6_1_21_1267,35,"Supermercado [comércio de artigos de higiene pessoal, cosmética e perfumaria]"
+auxserv_6_1_21_1268,35,"Supermercado [comércio de preparações para higiene doméstica, inclusive desinfetantes, desodorizantes de ambiente, 
+preparações para perfumar ambiente e repelentes para ambientes]"
+auxserv_6_1_21_1269,35,Supermercado [comércio de preparações para lavanderia]
+auxserv_6_1_21_1270,35,"Supermercado [comércio de óleos, graxas e preparações para polir]"
+auxserv_6_1_21_1271,35,"Supermercado [comércio de utensílios manuais de limpeza, não elétricos]"
+auxserv_6_1_21_1272,35,"Supermercado [comércio de toalhas de papel, guardanapos de papel, papel laminado e filmes plásticos]"
+auxserv_6_1_21_1273,35,Supermercado [comércio de recipientes para acondicionar alimentos]
+auxserv_6_1_21_1274,35,"Supermercado [comércio de talheres, pratos e recipientes, todos descartáveis]"
+auxserv_6_1_21_1275,35,Supermercado [comércio de utensílios de mesa]
+auxserv_6_1_21_1276,35,Supermercado [comércio de utensílios para toalete]
+auxserv_6_1_21_1277,35,Supermercado [comércio de lâmpadas e pilhas]
+auxserv_6_1_21_1278,35,Supermercado [comércio de velas e fósforos]
+auxserv_6_1_21_1279,42,"Suporte técnico em informática, a saber instalação, manutenção e configuração de banco de dados"
+auxserv_6_1_21_1280,35,Telemarketing
+auxserv_6_1_21_1281,38,Telemática [transmissão de informações/ telecomunicação]
+auxserv_6_1_21_1282,38,Telemetria
+auxserv_6_1_21_1283,35,Telepesquisa [pesquisa de opinião]
+auxserv_6_1_21_1284,38,Televisionamento
+auxserv_6_1_21_1285,45,Terapia esotérica
+auxserv_6_1_21_1286,44,Terapia ocupacional [serviços psicológicos]
+auxserv_6_1_21_1287,35,Terceirização [assistência empresarial]
+auxserv_6_1_21_1288,35,Terceirização [fornecimento de mão-de-obra]
+auxserv_6_1_21_1289,37,Terraplanagem
+auxserv_6_1_21_1290,41,"Testes, exames e provas psicotécnicos para orientação vocacional"
+auxserv_6_1_21_1291,35,"Testes, exames e provas psicotécnicos para seleção de pessoal [recrutamento de pessoal]"
+auxserv_6_1_21_1292,40,Tipografia [sistema de imprimir com fôrmas em relevo; impressão tipográfica]
+auxserv_6_1_21_1293,45,Transferência tecnológica [serviços jurídicos]
+auxserv_6_1_21_1294,38,Transmissão [emissão] de sinal de telecomunicação por satélite
+auxserv_6_1_21_1295,38,"Transmissão de filmes de televisão via cabo, satélite, rede de telecomunicação"
+auxserv_6_1_21_1296,39,Transporte de urna mortuária
+auxserv_6_1_21_1297,40,Tratamento da lã
+auxserv_6_1_21_1298,40,Tratamento de água e esgoto
+auxserv_6_1_21_1299,42,Tratamento de informação/dados [serviço de informática]
+auxserv_6_1_21_1300,40,Tratamento e purificação da água da piscina
+auxserv_6_1_21_1301,44,Tratamento fitossanitário [controle de pragas agrícolas]
+auxserv_6_1_21_1302,44,Tratamento médico
+auxserv_6_1_21_1303,41,Treinamento de capoeira [esporte]
+auxserv_6_1_21_1304,41,Treinamento prático [apresentação] de capoeira [esporte]
+auxserv_6_1_21_1305,41,Treinamento prático [demonstração] de capoeira [esporte]
+auxserv_6_1_21_1306,41,Treinamento prático de chorinho [música]
+auxserv_6_1_21_1307,41,Treinamento prático de chorinho [prática instrumental]
+auxserv_6_1_21_1308,41,Treinamento prático de grupo carnavalesco
+auxserv_6_1_21_1309,41,Treinamento prático de samba [dança]
+auxserv_6_1_21_1310,41,Treinamento prático de samba [música]
+auxserv_6_1_21_1311,41,Treinamento prático de samba [prática instrumental]
+auxserv_6_1_21_1312,44,Trutário [criadouro de trutas]
+auxserv_6_1_21_1313,41,Universidade [serviço de educação]
+auxserv_6_1_21_1314,40,Usinagem metalúrgica
+auxserv_6_1_21_1315,40,Usinagem siderúrgica
+auxserv_6_1_21_1316,44,UTI móvel [serviços médicos]
+auxserv_6_1_21_1317,44,Vacinação de animal a domicílio
+auxserv_6_1_21_1318,44,Vacinação de pessoa a domicílio
+auxserv_6_1_21_1319,41,Venda de bilhetes de loteria
+auxserv_6_1_21_1320,41,Venda de ingressos para shows e espetáculos
+auxserv_6_1_21_1321,35,Venda e licenciamento de franchising [tratando-se de administração de negócios em franchising]
+auxserv_6_1_21_1322,42,Vistoria e perícia técnica de veículos
+auxserv_6_1_21_1323,36,Vistoria prévia em veículo para seguradora e corretora de seguro
+auxserv_6_1_21_1324,42,Vistorias navais
+auxserv_6_1_21_1325,40,Vitrificação
+auxserv_6_1_21_1326,37,Zelador
+auxserv_6_1_21_1327,40,"Zincografia, linotipia e litografia"
