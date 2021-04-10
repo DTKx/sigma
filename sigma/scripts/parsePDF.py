@@ -140,5 +140,6 @@ def main():
     outputPathJson=os.path.join(pathDadosProcessados,"classificacao_nice","dictProductsServicesNice.json")
     exportToJson(dictProductsServicesNice,outputPathJson)
 
+
 if __name__=="__main__":
     main()
