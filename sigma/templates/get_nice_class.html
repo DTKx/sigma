@@ -1,0 +1,16 @@
+{%extends "layout.html"%}
+{%block content%}
+<h1>Suporte na seleção de Classificações de NICE recomendáveis para pedido seu pedido de registro de marcas.</h3>
+    <div class="content-section">
+        <form action="show_nice_results">
+            Digite os seus CNAEs, separados por vírgula. Ex: 01.11-3,01.12-1,01.13-0,01.61-0,01.63-6 <input
+                type='text' name='cnaes'><br>
+            Digite os seus produtos, separados por vírgula. Ex: Cereais,algodão,cana de açúcar <input type='text'
+                name='products'><br>
+            Digite os seus serviços,separados por vírgula. Ex: Aluguel de tratores, serviço de colheita <input
+                type='text' name='services'><br>
+            <input type='submit' value='Continue'>
+        </form>
+    </div>
+
+    {%endblock content%}
