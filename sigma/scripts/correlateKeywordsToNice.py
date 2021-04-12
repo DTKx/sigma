@@ -3,6 +3,7 @@ import os
 import codecs
 from fuzzywuzzy import fuzz
 import re
+import pandas as pd
 pathDadosOriginais=(os.path.abspath(os.path.join(os.getcwd(),"sigma","dados","originais")))
 pathDadosProcessados=(os.path.abspath(os.path.join(os.getcwd(),"sigma","dados","processados")))
 
@@ -106,39 +107,41 @@ def main():
     print('Fuzz',myNice)
     for key in myNice:
         print(dictProductsServicesNice[key])
+    dfProducts=pd.DataFrame.from_dict({key:{'Especificação':dictProductsServicesNice[key]['Especificação'],'Classe Nice':dictProductsServicesNice[key]['Classe']} for key in myNice},orient='index')
+    print(dfProducts.to_html())
 
-    myNice=getNiceFromKeywordsSetContainAny(keywordsProductsSet,dictProdServNiceKeywords,dictProductsServicesNice,'p')
-    print('Contain',myNice)
-    for key in myNice:
-        print(dictProductsServicesNice[key])
+    # myNice=getNiceFromKeywordsSetContainAny(keywordsProductsSet,dictProdServNiceKeywords,dictProductsServicesNice,'p')
+    # print('Contain',myNice)
+    # for key in myNice:
+    #     print(dictProductsServicesNice[key])
 
-    # Lista de serviços
-    keywordsServicesSet={'limpeza de carros'}
-    myNice=getNiceFromKeywordsSetLevenshtein(keywordsServicesSet,dictProdServNiceKeywords,dictProductsServicesNice,threshhold,'s')
-    print('Fuzz',myNice)
-    for key in myNice:
-        print(dictProductsServicesNice[key])
+    # # Lista de serviços
+    # keywordsServicesSet={'limpeza de carros'}
+    # myNice=getNiceFromKeywordsSetLevenshtein(keywordsServicesSet,dictProdServNiceKeywords,dictProductsServicesNice,threshhold,'s')
+    # print('Fuzz',myNice)
+    # for key in myNice:
+    #     print(dictProductsServicesNice[key])
 
-    myNice=getNiceFromKeywordsSetContainAny(keywordsServicesSet,dictProdServNiceKeywords,dictProductsServicesNice,'s')
-    print('Contain',myNice)
-    for key in myNice:
-        print(dictProductsServicesNice[key])
+    # myNice=getNiceFromKeywordsSetContainAny(keywordsServicesSet,dictProdServNiceKeywords,dictProductsServicesNice,'s')
+    # print('Contain',myNice)
+    # for key in myNice:
+    #     print(dictProductsServicesNice[key])
 
-    #Cnae        
-    # keywordsCnaeSet={'venda de automóveis','comércio de peças automotivas','limpeza de carros'}
-    cnaeSet={'01.35-1','01.33-4'}
-    keywordsCnaeSet=getCnaeKeywords(cnaeSet,dictCnaeKeywords)
-    print(keywordsCnaeSet)
+    # #Cnae        
+    # # keywordsCnaeSet={'venda de automóveis','comércio de peças automotivas','limpeza de carros'}
+    # cnaeSet={'01.35-1','01.33-4'}
+    # keywordsCnaeSet=getCnaeKeywords(cnaeSet,dictCnaeKeywords)
+    # print(keywordsCnaeSet)
 
-    myNice=getNiceFromKeywordsSetLevenshtein(keywordsCnaeSet,dictProdServNiceKeywords,dictProductsServicesNice,threshhold,'t')
-    print('Fuzz',myNice)
-    for key in myNice:
-        print(dictProductsServicesNice[key])
+    # myNice=getNiceFromKeywordsSetLevenshtein(keywordsCnaeSet,dictProdServNiceKeywords,dictProductsServicesNice,threshhold,'t')
+    # print('Fuzz',myNice)
+    # for key in myNice:
+    #     print(dictProductsServicesNice[key])
 
-    myNice=getNiceFromKeywordsSetContainAny(keywordsCnaeSet,dictProdServNiceKeywords,dictProductsServicesNice,'t')
-    print('Contain',myNice)
-    for key in myNice:
-        print(dictProductsServicesNice[key])
+    # myNice=getNiceFromKeywordsSetContainAny(keywordsCnaeSet,dictProdServNiceKeywords,dictProductsServicesNice,'t')
+    # print('Contain',myNice)
+    # for key in myNice:
+    #     print(dictProductsServicesNice[key])
 
 
 

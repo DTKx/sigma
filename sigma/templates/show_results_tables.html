@@ -1,0 +1,8 @@
+{%extends "layout.html"%}
+{%block content%}
+<h1>Classificações de NICE recomendadas para o seu registro de marca, com base nos termos de:</h1>
+{% for table in tables %}
+{{ titles[loop.index] }}
+{{ table|safe }}
+{% endfor %}
+{%endblock content%}
