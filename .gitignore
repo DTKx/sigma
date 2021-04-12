@@ -2,6 +2,7 @@
 *.code-workspace
 **/*.log #Ignore Log files
 *.log #Ignore Log files
+*.pyc #Ignore cache files
 **/*.xlsx #Ignore (.xlsx) files
 **/*.pdf #Ignore pdf files
 **/*.vscode #Ignore vscode files
