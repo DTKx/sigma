@@ -19,6 +19,12 @@ def loadJson(path):
         jsonData=json.load(f)
     return jsonData
 
+def removeStopwordsPunctuation(myString,splitCharacter=','):
+    #Remove espaços em branco,characteres em minusculo, stopwords e pontuação  
+    myString=myString.lower().strip().translate(str.maketrans('', '', punctuation))#Transforma lower case e remove pontuação  
+    return " ".join(word for word in myString.split(splitCharacter) if word not in stopwords) 
+
+
 def createDictIncludedExcludedKeywords(myDictString,dictSubkeyStr):
     """Creates a new dict using the key of a dictionary, splits a value by string 'exceto', therefore separating a string of keywords included in classification and a string of keywords excluded.
 Steps:1) Splits strings before and after word 'exceto'. 2) Removes stopwords in portuguese.3)Adds to dict.
