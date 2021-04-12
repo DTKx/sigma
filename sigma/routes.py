@@ -46,6 +46,7 @@ def show_nice_results():
 
     # Lista de produtos
     niceFromProducts=ckn.getNiceFromKeywordsSetLevenshtein(keywordsProductsSet,dictProdServNiceKeywords,dictProductsServicesNice,threshhold,'p')
+    print(niceFromProducts)
     dfniceFromProducts=pd.DataFrame.from_dict({key:{'Especificação':dictProductsServicesNice[key]['Especificação'],'Classe Nice':dictProductsServicesNice[key]['Classe']} for key in niceFromProducts},orient='index')
 
     # Lista de serviços

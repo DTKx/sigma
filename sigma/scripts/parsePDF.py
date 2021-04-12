@@ -73,7 +73,7 @@ def extractTablesFromAuxiliaryPdfToDict(path,idname,typeAttributes,ixFirstLineFi
                 if (not line[1]) & (not line[0]):#Check empty lines
                     continue
                 line[1] = line[1].replace("\n", "")#Remove end of line
-                myDict[idname+str(i)]={"Especificação":line[1],"Classe":line[0],"Tipo":typeAttributes}#Código,Especificação,nice
+                myDict[idname+str(i)]={"Especificação":line[0],"Classe":line[1],"Tipo":typeAttributes}#Código,Especificação,nice
                 i+=1
     return myDict
 

@@ -33,6 +33,7 @@ def getNiceFromKeywordsSetLevenshtein(keywordsSet,dictProdServNiceKeywords,dictP
     """
     recomendedNiceSet=set()   
     for keyword in keywordsSet:
+        print('keyword',keyword)
         for nice,niceVal in dictProdServNiceKeywords.items():
             if (dictProductsServicesNice[nice]['Tipo']!=typeAttributes) & (typeAttributes!='t'):#Verifica apenas caso o tipo seja igual ao da keyword sendo avaliada (Produto ou serviço).
                 continue
@@ -46,7 +47,7 @@ def getNiceFromKeywordsSetLevenshtein(keywordsSet,dictProdServNiceKeywords,dictP
                 # Calculates the token set ratio
                 fuzz_token_set_ratio=fuzz.token_set_ratio(keyword,niceVal['Excluso'])
                 if (fuzz_ratio>=threshold) or (fuzz_partial_ratio>=threshold) or (fuzz_token_sort_ratio>=threshold) or (fuzz_token_set_ratio>=threshold):
-                    continue
+                    continue               
             #Se não há valores de chave em excluso
             # Verifico se pode ser incluso
             # Calculates the ratio
@@ -59,6 +60,11 @@ def getNiceFromKeywordsSetLevenshtein(keywordsSet,dictProdServNiceKeywords,dictP
             fuzz_token_set_ratio=fuzz.token_set_ratio(keyword,niceVal['Incluso'])
             if (fuzz_ratio>=threshold) or (fuzz_partial_ratio>=threshold) or (fuzz_token_sort_ratio>=threshold) or (fuzz_token_set_ratio>=threshold):
                 recomendedNiceSet.add(nice)
+            if nice=='auxprod6_1_21_2':
+                print('auxprod6_1_21_2')
+                print('niceVal[Incluso]',niceVal['Incluso'])
+                print(fuzz_ratio,fuzz_partial_ratio,fuzz_token_sort_ratio,fuzz_token_set_ratio)
+
     return recomendedNiceSet
 
 def getNiceFromKeywordsSetContainAny(keywordsSet,dictProdServNiceKeywords,dictProductsServicesNice,typeAttributes):
@@ -102,7 +108,8 @@ def main():
     threshhold=80
 
     # Lista de produtos
-    keywordsProductsSet={'venda de automóveis','comércio de peças automotivas'}
+    # keywordsProductsSet={'venda de automóveis','comércio de peças automotivas'}
+    keywordsProductsSet={'abacaxi'}
     myNice=getNiceFromKeywordsSetLevenshtein(keywordsProductsSet,dictProdServNiceKeywords,dictProductsServicesNice,threshhold,'p')
     print('Fuzz',myNice)
     for key in myNice:
