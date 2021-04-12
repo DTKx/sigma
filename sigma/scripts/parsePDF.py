@@ -8,16 +8,17 @@ pathDadosProcessados=(os.path.abspath(os.path.join(os.getcwd(),"sigma","dados","
 # C:\Users\Debs\Documents\39_INPI_hack\sigma\sigma\dados\originais\classificacao_nice\PortalINPIListaAuxiliarDeServicosNCL112021_20210106.pdf
 
 
-def addTablesFromMainPdfToDict(path,ixFirstLineFirstPage=1,ixFirstLineOtherPages=1):
+def addTablesFromMainPdfToDict(path,typeAttributes,ixFirstLineFirstPage=1,ixFirstLineOtherPages=1):
     """Extrai tabelas dos PDFs de classificação de nice de tadaabelas principais de produtos e serviço.
 
     Args:
         path (string): Caminho do arquivo em PDF, com tabela com colunas nas seguintes ordens: Classificação de Nice,Especifição,Nº de base 
-
-    Returns:
-        dict: Dicionário no formato {Código do produto/serviço:{Descrição do produto/serviço:Código de NICE}}
         ixFirstLineFirstPage (int): Número da linha em que valores da tabela inicia na primeira página(Deve pular os cabeçalhos).
         ixFirstLineOtherPages (int): Número da linha em que valores da tabela inicia nas páginas seguintes à primeira(Deve pular os cabeçalhos).
+        typeAttributes (char): Tipo da base de dados sendo adicionada. (Produtos (P) ou Serviços(S)).
+
+    Returns:
+        dict (dict): Dicionário no formato {Código do produto/serviço:{"Especificação":Descrição do produto/serviço,"Classe":Código de NICE,"Tipo":Produto(p) ou Serviço(s)}}
     """
     myDict={}
     with pdfplumber.open(path) as pdf:
@@ -31,7 +32,7 @@ def addTablesFromMainPdfToDict(path,ixFirstLineFirstPage=1,ixFirstLineOtherPages
                 if (not line[2]) & (not line[1]) & (not line[0]):#Check empty lines
                     continue
                 line[1] = line[1].replace("\n", "")#Remove end of line
-                myDict[line[2]]={"Especificação":line[1],"Classe":line[0]}#Código,Descrição,nice
+                myDict[line[2]]={"Especificação":line[1],"Classe":line[0],"Tipo":typeAttributes}#Código,Descrição,nice,tipo
             i+=1
     return myDict
 
@@ -46,7 +47,7 @@ def exportAsCsvFromDict(myDict,inputPath,outputPath):
     df=pd.DataFrame.from_dict(myDict,orient='index')
     df.to_csv(outputPath)
 
-def extractTablesFromAuxiliaryPdfToDict(path,idname,ixFirstLineFirstPage=2,ixFirstLineOtherPages=0):
+def extractTablesFromAuxiliaryPdfToDict(path,idname,typeAttributes,ixFirstLineFirstPage=2,ixFirstLineOtherPages=0):
     """Extrai tabelas de PDFs de listas auxiliares de classificação de NICE e adiciona em dicionário.
 
     Args:
@@ -54,9 +55,11 @@ def extractTablesFromAuxiliaryPdfToDict(path,idname,ixFirstLineFirstPage=2,ixFir
         idname (string): Nome para código de identificação
         ixFirstLineFirstPage (int): Número da linha em que valores da tabela inicia na primeira página(Deve pular os cabeçalhos).
         ixFirstLineOtherPages (int): Número da linha em que valores da tabela inicia nas páginas seguintes à primeira(Deve pular os cabeçalhos).
+        typeAttributes (char): Tipo da base de dados sendo adicionada. (Produtos (P) ou Serviços(S)).
 
     Returns:
-        dict: Dicionário com os dados adicionais das tabelas auxiliares,no formato {Código do produto/serviço:{Descrição do produto/serviço:Código de NICE}}
+        dict: Dicionário com os dados adicionais das tabelas auxiliares,no formato {Código do produto/serviço:{"Especificação":Descrição do produto/serviço,"Classe":Código de NICE,"Tipo":Produto(p) ou Serviço(s)}}
+
     """
     myDict={}
     with pdfplumber.open(path) as pdf:
@@ -70,7 +73,7 @@ def extractTablesFromAuxiliaryPdfToDict(path,idname,ixFirstLineFirstPage=2,ixFir
                 if (not line[1]) & (not line[0]):#Check empty lines
                     continue
                 line[1] = line[1].replace("\n", "")#Remove end of line
-                myDict[idname+str(i)]={"Especificação":line[1],"Classe":line[0]}#Código,Especificação,nice
+                myDict[idname+str(i)]={"Especificação":line[1],"Classe":line[0],"Tipo":typeAttributes}#Código,Especificação,nice
                 i+=1
     return myDict
 
@@ -88,7 +91,7 @@ def main():
     inputPath=os.path.join(pathDadosOriginais,"classificacao_nice","PORTALINPIListaDeProdutosEmOrdemDeClasseNCL112021_20210106.pdf")
     outputPathCsv=os.path.join(pathDadosProcessados,"classificacao_nice","dfProducts.csv")
     # Adiciona ao dicionário a lista de produtos principal.
-    dictProductsServicesNice=addTablesFromMainPdfToDict(inputPath)
+    dictProductsServicesNice=addTablesFromMainPdfToDict(inputPath,typeAttributes='p')
     # Exporta CSV da lista para visualização e verificação
     exportAsCsvFromDict(dictProductsServicesNice,inputPath,outputPathCsv)
 
@@ -99,7 +102,7 @@ def main():
     idname="auxprod6_1_21_"
 
     # Adiciona ao dicionário a lista de produtos auxiliar.
-    dictProductsAuxNice=extractTablesFromAuxiliaryPdfToDict(inputPath,idname)
+    dictProductsAuxNice=extractTablesFromAuxiliaryPdfToDict(inputPath,idname,typeAttributes='p')
     # Exporta CSV da lista para visualização e verificação
     exportAsCsvFromDict(dictProductsAuxNice,inputPath,outputPathCsv)
     # Atualiza o dicionário principal
@@ -113,7 +116,7 @@ def main():
     outputPathCsv=os.path.join(pathDadosProcessados,"classificacao_nice","dfServices.csv")
 
     # Cria dicionarios
-    dictServicesNice=addTablesFromMainPdfToDict(inputPath)
+    dictServicesNice=addTablesFromMainPdfToDict(inputPath,typeAttributes='s')
     # Exporta CSV da lista para visualização e verificação
     exportAsCsvFromDict(dictServicesNice,inputPath,outputPathCsv)
     # Atualiza o dicionário principal
@@ -128,7 +131,7 @@ def main():
     idname="auxserv_6_1_21_"
 
     # Cria dicionarios
-    dictServicesAuxNice=extractTablesFromAuxiliaryPdfToDict(inputPath,idname)
+    dictServicesAuxNice=extractTablesFromAuxiliaryPdfToDict(inputPath,idname,typeAttributes='s')
     # Exporta CSV da lista para visualização e verificação
     exportAsCsvFromDict(dictServicesAuxNice,inputPath,outputPathCsv)
     # Atualiza o dicionário principal

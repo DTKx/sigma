@@ -17,13 +17,15 @@ def exportToJson(data,path):
     with open(path, 'wb') as f:
         json.dump(data,codecs.getwriter('utf-8')(f), ensure_ascii=False)
 
-def getNiceFromKeywordsSet(keywordsSet,dictProdServNiceKeywords,threshold):
+def getNiceFromKeywordsSet(keywordsSet,dictProdServNiceKeywords,dictProductsServicesNice,threshold,typeAttributes):
     """Get Nice classification from Keywords. Evaluates similarity between keywords of Nice description considers a match if any of the 4 similarities metrics based on levenshtein distance are above the threshold.
 
     Args:
         keywordsSet (set of strings): Set of keywords to search.
         dictProdServNiceKeywords (dict): Dictionary of NICE with {Identification key:{'included':keywords included in classification,'excluded':keywords excluded for classification.}}
+        dictProductsServicesNice (dict): Dicionário no formato {Código do produto/serviço:{"Especificação":Descrição do produto/serviço,"Classe":Código de NICE,"Tipo":Produto(p) ou Serviço(s)}}
         threshold (int): Threshold to include similarity if any of the metrics are above.
+        typeAttributes (char): Tipo da base de dados sendo adicionada. (Produtos (P), Serviços(S) ou Todos (t)).
 
     Returns:
         set of strings: returns a set with the NICE classification for the given set of keywords.    
@@ -31,6 +33,8 @@ def getNiceFromKeywordsSet(keywordsSet,dictProdServNiceKeywords,threshold):
     recomendedNiceSet=set()   
     for keyword in keywordsSet:
         for nice,niceVal in dictProdServNiceKeywords.items():
+            if (dictProductsServicesNice[nice]['Tipo']!=typeAttributes) & (typeAttributes!='t'):#Verifica apenas caso o tipo seja igual ao da keyword sendo avaliada (Produto ou serviço).
+                continue
             if niceVal['Excluso']!='':#Verifica se keyword é exclusa da classe
                 # Calculates the ratio
                 fuzz_ratio=fuzz.ratio(keyword,niceVal['Excluso'])
@@ -60,8 +64,9 @@ def main():
     # Carrega dicts
     dictProdServNiceKeywords = loadJson(os.path.join(pathDadosProcessados,"classificacao_nice","dictProdServNiceKeywords.json"))
     dictProductsServicesNice = loadJson(os.path.join(pathDadosProcessados,"classificacao_nice","dictProductsServicesNice.json"))
-    keywordsSet={'venda de automóveis','comércio de peças automotivas','limpeza de carros'}
-    myNice=getNiceFromKeywordsSet(keywordsSet,dictProdServNiceKeywords,100)
+    keywordsProductsSet={'venda de automóveis','comércio de peças automotivas'}
+    keywordsServicesSet={'limpeza de carros'}
+    myNice=getNiceFromKeywordsSet(keywordsProductsSet,dictProdServNiceKeywords,dictProductsServicesNice,100,'p')
     print(myNice)
     for key in myNice:
         print(dictProductsServicesNice[key])
