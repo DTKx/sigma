@@ -26,6 +26,8 @@ def show_nice_results():
     # Preprocessa input
     keywordsProductsSet=set(ppd.removeStopwordsPunctuation(products))
     keywordsServicesSet=set(ppd.removeStopwordsPunctuation(services))
+    print('keywordsProductsSet',keywordsProductsSet)
+    print('keywordsServicesSet',keywordsServicesSet)
 
     # Carrega dicts
     pathDadosProcessados=(os.path.abspath(os.path.join(os.getcwd(),"sigma","dados","processados")))

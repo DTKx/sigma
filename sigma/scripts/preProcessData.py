@@ -22,7 +22,9 @@ def loadJson(path):
 def removeStopwordsPunctuation(myString,splitCharacter=','):
     #Remove espaços em branco,characteres em minusculo, stopwords e pontuação  
     myString=myString.lower().strip().translate(str.maketrans('', '', punctuation))#Transforma lower case e remove pontuação  
-    return " ".join(word for word in myString.split(splitCharacter) if word not in stopwords) 
+    print(myString)
+    print([word for word in myString.split(splitCharacter) if word not in stopwords])
+    return [word for word in myString.split(splitCharacter) if word not in stopwords]
 
 
 def createDictIncludedExcludedKeywords(myDictString,dictSubkeyStr):
