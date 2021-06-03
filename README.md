@@ -60,7 +60,7 @@ Clique então no link que surgirá e você será redirecionado à interface de u
 3. Clique em Obter sugestões de Classificação de NICE. 
 ![Preenchimento de dados da empresa.](https://github.com/DTKx/sigma/blob/main/images/web2.PNG)
 4. As sugestões de números de Classificação de Nice surgirá,separadas por seleção com base nos Números CNAE,produtos,serviços.
-![Sugestões de Classificações de NICE para a empresa.](https://github.com/DTKx/sigma/blob/main/images/web2.PNG)
+![Sugestões de Classificações de NICE para a empresa.](https://github.com/DTKx/sigma/blob/main/images/web3.PNG)
 
 ## Licença
 GNU GPL
